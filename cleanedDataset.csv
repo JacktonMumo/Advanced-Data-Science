@@ -1,0 +1,436 @@
+,ids,bday,enrolldate,expgradate,Rank,Major,Gender,Athlete,Height,Weight,Smoking,Sprint,English,Reading,Math,Writing,State,LiveOnCampus,HowCommute,CommuteTime,SleepTime,StudyTime
+0,43783,1995-03-22,2000-01-01,2000-01-01,Unknown,unknown,Male,0,72.35,181.03156914893617,Not a smoker,7.978,88.24,81.5,60.02,81.44,In state,On Campus,Public Transit,27.0,7.0,1.0
+1,20278,1995-01-01,2000-01-01,2000-01-01,Unknown,Philosophy,Male,0,70.66,179.2,Not a smoker,8.004,89.45,85.25,70.19,73.27,unknown,On Campus,Public Transit,27.0,5.0,2.0
+2,20389,1994-12-31,2000-01-01,2000-01-01,Unknown,unknown,Male,0,70.68,198.52,Not a smoker,6.581933155080214,96.73,86.88,71.2,84.24,In state,unknown,Public Transit,27.0,8.0,7.0
+3,22820,1994-12-01,2000-01-01,2000-01-01,Unknown,business administration,Female,0,68.03176470588237,198.34,3.0,8.473,74.06,88.68,55.89,73.16,In state,On Campus,Public Transit,27.0,2.0,6.0
+4,24559,1994-11-10,2000-01-01,2000-01-01,Unknown,unknown,Female,1,67.43,128.17,Unknown,6.581933155080214,82.61,77.3,65.52,80.45,Out of state,On Campus,Public Transit,27.0,7.0,3.0
+5,28980,1994-09-17,2000-01-01,2000-01-01,Unknown,astrophysics,Male,1,68.45,171.61,Not a smoker,4.65,70.1,82.0708,61.4,77.48,In state,On Campus,Public Transit,27.0,8.0,3.0
+6,33312,1994-07-27,2000-01-01,2000-01-01,Unknown,Anthropology,Male,1,68.56,163.96,Not a smoker,4.75,78.98,87.53,76.71,70.79,In state,On Campus,Public Transit,27.0,9.0,9.0
+7,40274,1994-05-03,2000-01-01,2000-01-01,Unknown,American History,Male,1,71.91,222.87,Not a smoker,6.581933155080214,82.78755501222494,67.31,58.64,65.89,In state,Off Campus,Public Transit,27.0,8.0,3.0
+8,40390,1994-04-30,2000-01-01,2000-01-01,Unknown,Africana studies,Female,1,68.84,154.7,Not a smoker,6.279,75.65,76.54,51.14,75.94,In state,Off Campus,Car,26.0,5.461538461538462,3.0
+9,28942,1993-09-17,2000-01-01,2000-01-01,Unknown,unknown,Female,1,66.69,180.57,Not a smoker,6.076,68.27,93.88,55.2,78.18,Out of state,unknown,Walk,13.0,2.0,15.0
+10,29045,1993-09-17,2000-01-01,2000-01-01,Unknown,French,Male,0,70.12,164.59,Not a smoker,8.498,86.0,91.34,64.41,71.02,Out of state,Off Campus,Car,20.0,1.0,6.0
+11,35676,1993-06-27,2000-01-01,2000-01-01,Unknown,history,Female,1,66.91,177.89,3.0,6.581933155080214,79.94,76.74,62.53,84.78,In state,On Campus,Public Transit,27.0,4.0,0.0
+12,38764,1993-05-22,2000-01-01,2000-01-01,Unknown,unknown,Male,1,65.21,139.95,Not a smoker,4.661,101.95,74.45,66.8,88.5,In state,Off Campus,Car,29.0,4.0,2.0
+13,39796,1993-05-08,2000-01-01,2000-01-01,Unknown,unknown,Female,0,72.35,230.27,Unknown,7.312,88.97,86.53,52.48,81.21,Out of state,Off Campus,Car,38.0,4.0,2.0
+14,41092,1993-04-23,2000-01-01,2000-01-01,Unknown,"engineering,undecided",Male,0,67.12,261.92,Not a smoker,7.113,91.79,84.44,66.76,88.03,In state,On Campus,Public Transit,27.0,4.0,11.0
+15,43344,1993-03-26,2000-01-01,2000-01-01,Unknown,Fine Arts (Painting),Male,0,68.03176470588237,132.69,Smoker,7.443,70.42,85.29,57.95,79.22,In state,On Campus,Public Transit,27.0,9.0,7.208651399491094
+16,49688,1993-01-08,2000-01-01,2000-01-01,Unknown,education,Male,0,79.0,181.03156914893617,Not a smoker,6.581933155080214,97.23,82.0708,67.72,84.35,In state,On Campus,Public Transit,27.0,13.0,7.208651399491094
+17,37701,1992-06-02,2000-01-01,2000-01-01,Unknown,unknown,Female,1,63.12,181.03156914893617,Unknown,6.499,85.71,78.06,66.83,82.99,In state,On Campus,Public Transit,27.0,6.0,1.0
+18,44116,1992-03-16,2000-01-01,2000-01-01,Unknown,Exorcise Science,Female,0,69.25,183.68,3.0,6.581933155080214,82.99,74.41,61.4,81.12,In state,On Campus,Public Transit,27.0,5.0,15.0
+19,25871,1991-10-26,2000-01-01,2000-01-01,Unknown,saxophone,Male,1,68.03176470588237,148.82,Not a smoker,4.524,83.95,74.02,74.92,64.06,In state,Off Campus,Car,27.0,4.0,7.208651399491094
+20,26154,1991-10-22,2000-01-01,2000-01-01,Unknown,mathematics,Female,0,58.8,128.73,Not a smoker,6.737,74.88,79.61,51.3,79.64,In state,Off Campus,Walk,21.0,2.0,7.0
+21,41291,1991-04-21,2000-01-01,2000-01-01,Unknown,unknown,Male,1,71.67,205.62,Not a smoker,4.89,84.67,79.64,60.85,76.77,Out of state,Off Campus,Car,24.0,9.0,6.0
+22,46752,1991-02-13,2000-01-01,2000-01-01,Unknown,Education Administration,Female,0,61.94,179.64,Unknown,7.013,99.51,95.81,68.91,84.19,In state,On Campus,Public Transit,27.0,3.0,9.0
+23,20183,1991-01-03,2000-01-01,2000-01-01,Unknown,Creative writing,Male,0,66.92,192.61,Not a smoker,7.407,83.3,82.98,68.82,75.49,In state,Off Campus,Car,34.0,6.0,5.0
+24,23643,1990-11-22,2000-01-01,2000-01-01,Unknown,unknown,Male,1,68.03176470588237,181.03156914893617,Not a smoker,6.581933155080214,80.86,75.15,75.69,81.12,unknown,Off Campus,Car,33.0,5.0,6.0
+25,40303,1990-05-02,2000-01-01,2000-01-01,Unknown,unknown,Female,0,59.59,186.4,Not a smoker,6.581933155080214,84.67,87.04,73.94,87.61,unknown,Off Campus,Car,20.0,3.0,4.0
+26,27496,1988-10-06,2000-01-01,2000-01-01,Unknown,unknown,Female,0,67.51,251.41,Not a smoker,7.035,74.85,70.41,65.51,83.06,In state,Off Campus,Bike,10.0,3.0,11.0
+27,26582,2000-01-01,2000-01-01,2000-01-01,Unknown,Journalism,Male,1,73.71,197.09,Not a smoker,4.749,85.67,67.62,53.06,77.68,unknown,unknown,Public Transit,27.0,3.0,12.0
+28,46919,2000-01-01,2000-01-01,2000-01-01,Unknown,unknown,Female,1,72.26,166.04,Not a smoker,5.381,82.56,77.19,60.73,83.54,In state,Off Campus,Car,21.0,3.0,6.0
+29,20230,1996-01-02,2014-08-04,2020-05-11,First position,pre-pharma,Male,1,80.11,181.03156914893617,Not a smoker,5.203,81.6,75.6,65.36,76.07,In state,On Campus,Public Transit,27.0,8.0,3.0
+30,21083,1995-12-22,2014-08-04,2020-05-11,First position,unknown,Female,0,72.05,234.64,Not a smoker,6.746,78.85,86.92,68.53,71.42,In state,Off Campus,Car,26.0,5.0,3.0
+31,21939,1995-12-12,2014-08-04,2020-05-11,First position,unknown,Male,1,66.09,181.03156914893617,Not a smoker,5.326,87.7,81.1,61.61,79.52168316831683,In state,Off Campus,Car,39.0,6.0,5.0
+32,23017,1995-11-29,2014-08-04,2020-05-11,First position,unknown,Neutral,0,71.72,224.57,Not a smoker,7.638,76.63,84.19,65.25,72.61,In state,Off Campus,Bike,8.0,8.0,4.0
+33,23217,1995-11-26,2014-08-04,2019-05-13,First position,Pre Med,Male,0,71.41,224.02,Not a smoker,6.475,75.2,81.54,66.66,85.38,In state,Off Campus,Car,31.0,5.0,5.0
+34,23889,1995-11-18,2014-08-04,2019-05-13,First position,communication,Male,1,70.29,175.49,Not a smoker,4.593,81.74,86.41,66.21,76.24,In state,On Campus,Public Transit,27.0,9.0,8.0
+35,24985,1995-11-05,2014-08-04,2019-05-13,First position,Biology,Female,0,67.27,181.03156914893617,Smoker,7.025,82.78755501222494,77.65,56.04,79.52168316831683,In state,On Campus,Public Transit,27.0,8.0,11.0
+36,25382,1995-10-31,2014-08-04,2020-05-11,First position,unknown,Male,1,71.72,164.17,Not a smoker,4.574,87.54,84.77,69.78,78.52,In state,Off Campus,Car,27.0,5.0,3.0
+37,25701,1995-10-27,2014-08-04,2019-05-13,First position,Chemistry,Female,0,62.36,163.99,Not a smoker,6.136,83.97,85.85,57.74,83.65,In state,On Campus,Public Transit,27.0,6.0,11.0
+38,26140,1995-10-21,2014-08-04,2020-05-11,First position,Aeronautics (Air Traffic Control),Female,1,69.02,195.56,Not a smoker,4.634,83.15,83.95,77.6,89.07,Out of state,Off Campus,Car,33.0,5.461538461538462,5.0
+39,29142,1995-09-15,2014-08-04,2020-05-11,First position,Soc,Female,0,68.67,181.03156914893617,Not a smoker,6.572,89.48,78.0,59.24,81.95,Out of state,On Campus,Public Transit,27.0,4.0,0.0
+40,30056,1995-09-04,2014-08-04,2020-05-11,First position,Poli Sci,Male,1,72.17,175.91,3.0,6.581933155080214,81.35,73.57,67.89,69.86,In state,On Campus,Public Transit,27.0,7.0,4.0
+41,30164,1995-09-03,2014-08-04,2020-05-11,First position,unknown,Male,0,69.58,183.92,3.0,6.838,71.07,86.6,63.45,75.72,In state,Off Campus,Car,37.0,7.0,5.0
+42,30953,1995-08-23,2014-08-04,2020-05-11,First position,unknown,Female,0,68.03176470588237,118.99,Not a smoker,7.875,72.79,71.65,68.83,78.85,In state,On Campus,Public Transit,27.0,8.0,11.0
+43,31227,1995-08-20,2014-08-04,2020-05-11,First position,art historyy,Female,0,68.38,149.67,Unknown,7.494,82.28,81.25,61.78,78.66,In state,On Campus,Public Transit,27.0,10.0,5.0
+44,31862,1995-08-14,2014-08-04,2019-05-13,First position,unknown,Male,1,73.25,181.03156914893617,3.0,5.625,75.44,86.14,59.64,76.88,In state,On Campus,Public Transit,27.0,3.0,5.0
+45,32521,1995-08-06,2014-08-04,2019-05-13,First position,Art history,Male,1,77.49,230.42,Not a smoker,4.979,76.9,85.24,75.94,79.52168316831683,In state,Off Campus,Car,20.0,5.0,6.0
+46,33055,1995-07-30,2014-08-04,2019-05-13,First position,unknown,Male,1,69.78,181.03156914893617,Not a smoker,4.673,82.78755501222494,74.07,57.48,73.15,In state,On Campus,Public Transit,27.0,5.0,5.0
+47,33153,1995-07-28,2014-08-04,2019-05-13,First position,unknown,Neutral,0,64.82,199.74,Not a smoker,7.181,82.78755501222494,84.98,75.66,87.03,In state,On Campus,Public Transit,27.0,5.0,3.0
+48,34417,1995-07-12,2014-08-04,2019-05-13,First position,unknown,Female,1,67.54,181.03156914893617,Not a smoker,5.138,80.95,73.22,61.0,81.69,In state,Off Campus,Car,28.0,7.0,7.208651399491094
+49,34717,1995-07-10,2014-08-04,2020-05-11,First position,unknown,Male,1,76.97,157.67,Not a smoker,5.887,76.47,80.82,68.19,78.88,In state,On Campus,Public Transit,27.0,7.0,1.0
+50,35023,1995-07-05,2014-08-04,2019-05-13,First position,unknown,Female,0,62.46,193.87,Not a smoker,6.581933155080214,94.43,87.34,79.93,79.63,Out of state,On Campus,Public Transit,27.0,6.0,19.0
+51,35599,1995-06-28,2014-08-04,2020-05-11,First position,unknown,Male,0,67.29,218.97,3.0,7.323,74.07,73.45,63.54,79.52168316831683,In state,On Campus,Public Transit,27.0,5.0,3.0
+52,36555,1995-06-18,2014-08-04,2020-05-11,First position,unknown,Male,0,72.69,253.6,Unknown,6.716,70.48,85.48,65.88,71.44,In state,Off Campus,Car,31.0,7.0,7.0
+53,38134,1995-05-29,2014-08-04,2019-05-13,First position,agricultural studies,Male,1,64.9,194.61,Not a smoker,4.873,84.95,81.01,62.08,71.21,In state,On Campus,Public Transit,27.0,6.0,5.0
+54,38528,1995-05-24,2014-08-04,2019-05-13,First position,unknown,Female,0,62.42,127.89,Smoker,7.706,85.24,82.77,82.14,83.03,Out of state,On Campus,Public Transit,27.0,2.0,5.0
+55,38775,1995-05-21,2014-08-04,2019-05-13,First position,Finance,Male,1,70.58,152.7,Not a smoker,6.581933155080214,79.64,68.83,47.62,77.11,In state,On Campus,Public Transit,27.0,5.0,5.0
+56,38980,1995-05-19,2014-08-04,2020-05-11,First position,bio,Male,0,74.92,165.06,Not a smoker,8.926,88.44,84.15,78.38,69.52,In state,Off Campus,Car,27.0,6.0,5.0
+57,39006,1995-05-17,2014-08-04,2019-05-13,First position,Theare,Female,1,67.56,151.53,Not a smoker,6.663,89.49,86.13,65.3,84.68,In state,unknown,Public Transit,27.0,4.0,10.0
+58,39341,1995-05-15,2014-08-04,2019-05-13,First position,unknown,Male,1,73.48,212.18,Not a smoker,5.456,77.64,71.09,66.48,74.43,unknown,On Campus,Public Transit,27.0,7.0,7.208651399491094
+59,39542,1995-05-11,2014-08-04,2020-05-11,First position,Engineering,Female,0,73.06,213.32,Not a smoker,7.93,75.38,76.45,63.7,76.69,In state,On Campus,Public Transit,27.0,5.461538461538462,7.208651399491094
+60,39715,1995-05-11,2014-08-04,2020-05-11,First position,environmental policy,Male,1,68.03176470588237,181.03156914893617,Not a smoker,4.751,82.78755501222494,80.51,70.42,74.57,In state,On Campus,Public Transit,27.0,9.0,6.0
+61,40161,1995-05-03,2014-08-04,2019-05-13,First position,Classics,Female,0,61.22,197.51,Not a smoker,7.296,87.87,91.89,77.23,86.6,Out of state,On Campus,Public Transit,27.0,10.0,1.0
+62,40619,1995-04-29,2014-08-04,2020-05-11,First position,media literacy,Male,0,65.7,267.88,Smoker,5.537,82.24,93.34,63.28,79.52168316831683,In state,On Campus,Public Transit,27.0,4.0,8.0
+63,41288,1995-04-22,2014-08-04,2020-05-11,First position,unknown,Male,0,69.63,176.11,Unknown,7.848,79.48,101.59,73.49,71.67,Out of state,On Campus,Public Transit,27.0,5.0,1.0
+64,41254,1995-04-20,2014-08-04,2020-05-11,First position,ancient studies,Female,0,56.54,129.98,Not a smoker,7.171,85.53,76.35,55.19,84.97,Out of state,On Campus,Public Transit,27.0,4.0,15.0
+65,42023,1995-04-10,2014-08-04,2020-05-11,First position,unknown,Female,0,63.63,126.63,Not a smoker,7.701,72.31,89.03,78.04,72.55,Out of state,Off Campus,Car,33.0,8.0,1.0
+66,42630,1995-04-05,2014-08-04,2019-05-13,First position,unknown,Male,0,84.41,350.07,Not a smoker,6.646,71.29,83.84,68.85,76.56,In state,On Campus,Public Transit,27.0,2.0,4.0
+67,42850,1995-04-02,2014-08-04,2019-05-13,First position,Higher Ed,Male,0,62.84,115.98,Unknown,7.817,60.96,69.87,58.97,71.56,In state,On Campus,Public Transit,27.0,1.0,4.0
+68,42769,1995-04-01,2014-08-04,2019-05-13,First position,Psych,Female,0,60.15,141.98,Smoker,6.581933155080214,75.07,72.17,49.4,75.89,In state,On Campus,Public Transit,27.0,8.0,2.0
+69,43221,1995-03-26,2014-08-04,2020-05-11,First position,unknown,Female,1,66.17,181.03156914893617,Not a smoker,6.581933155080214,76.23,79.79,64.83,83.58,In state,On Campus,Public Transit,27.0,5.0,4.0
+70,44088,1995-03-18,2014-08-04,2019-05-13,First position,Music Education,Male,1,75.91,181.03156914893617,Not a smoker,4.566,85.34,81.42,73.51,74.0,In state,On Campus,Public Transit,27.0,8.0,10.0
+71,44413,1995-03-12,2014-08-04,2020-05-11,First position,Pre-med,Female,0,69.43,207.72,Not a smoker,8.157,86.85,91.25,76.93,84.01,In state,Off Campus,Car,30.0,5.0,9.0
+72,44517,1995-03-11,2014-08-04,2020-05-11,First position,Environmental Science,Female,1,66.07,137.0,Not a smoker,6.826,69.81,70.58,35.32,70.73,In state,On Campus,Public Transit,27.0,5.0,7.208651399491094
+73,46221,1995-02-20,2014-08-04,2020-05-11,First position,liberal Studies,Male,1,66.29,153.8,Not a smoker,4.681,82.49,82.01,62.99,75.64,In state,On Campus,Public Transit,27.0,3.0,6.0
+74,47050,1995-02-06,2014-08-04,2020-05-11,First position,psycho,Female,0,62.89,158.85,Unknown,7.256,84.3,78.72,72.52,80.03,In state,Off Campus,Car,32.0,3.0,12.0
+75,47887,1995-01-28,2014-08-04,2020-05-11,First position,photograPhy,Female,1,68.03176470588237,151.97,Not a smoker,5.527,86.59,79.22,57.58,70.89,In state,On Campus,Public Transit,27.0,4.0,3.0
+76,48361,1995-01-25,2014-08-04,2019-05-13,First position,sport and exercise science,Male,0,83.73,206.55,Not a smoker,7.817,95.23,76.72,69.7,82.44,In state,On Campus,Public Transit,27.0,5.0,6.0
+77,49213,1995-01-16,2014-08-04,2020-05-11,First position,Geograph,Male,1,74.32,164.91,Not a smoker,5.685,89.3,90.92,66.46,82.21,In state,On Campus,Public Transit,27.0,2.0,6.0
+78,49326,1995-01-14,2014-08-04,2019-05-13,First position,unknown,Male,0,72.85,194.74,Not a smoker,7.812,69.48,79.78,54.69,69.38,In state,On Campus,Public Transit,27.0,5.0,6.0
+79,49155,1995-01-13,2014-08-04,2020-05-11,First position,English,Female,0,62.2,186.84,Not a smoker,6.735,77.17,55.11,40.38,80.62,In state,On Campus,Public Transit,27.0,8.0,3.0
+80,20531,1994-12-29,2014-08-04,2019-05-13,First position,unknown,Male,1,68.03176470588237,261.59,Not a smoker,4.503,93.69,87.7,76.35,79.08,In state,On Campus,Public Transit,27.0,4.0,1.0
+81,20615,1994-12-28,2014-08-04,2020-05-11,First position,photography,Female,0,66.4,167.57,Not a smoker,6.581933155080214,85.44,85.49,69.92,84.34,In state,On Campus,Public Transit,27.0,7.0,6.0
+82,21492,1994-12-17,2014-08-04,2020-05-11,First position,Art Education,Female,1,63.88,161.63,Not a smoker,4.644,81.83,74.06,71.23,82.36,In state,On Campus,Public Transit,27.0,5.0,4.0
+83,22069,1994-12-10,2014-08-04,2020-05-11,First position,unknown,Male,0,72.57,224.92,Not a smoker,7.135,83.19,89.74,72.56,76.63,unknown,On Campus,Public Transit,27.0,3.0,7.0
+84,22567,1994-12-04,2014-08-04,2019-05-13,First position,sports medicine,Female,1,64.43,194.01,Not a smoker,4.819,80.07,103.62,79.17,75.56,In state,On Campus,Public Transit,27.0,7.0,7.208651399491094
+85,23767,1994-11-20,2014-08-04,2020-05-11,First position,French,Male,1,66.82,166.55,Not a smoker,5.654,77.42,79.14,60.06,76.25,In state,unknown,Public Transit,27.0,4.0,11.0
+86,23937,1994-11-17,2014-08-04,2019-05-13,First position,Theatre,Female,0,62.59,139.85,Unknown,8.865,83.79,87.48,57.57,81.66,In state,unknown,Public Transit,27.0,4.0,8.0
+87,24153,1994-11-15,2014-08-04,2019-05-13,First position,Education - Science,Female,0,62.12,106.48,Unknown,8.48,81.0,70.87,48.06,88.89,Out of state,unknown,Car,23.0,7.0,4.0
+88,24202,1994-11-14,2014-08-04,2019-05-13,First position,unknown,Female,0,57.4,164.53,3.0,6.839,79.0,78.47,59.89,79.02,Out of state,On Campus,Public Transit,27.0,8.0,4.0
+89,24556,1994-11-10,2014-08-04,2020-05-11,First position,finance,Female,0,68.03176470588237,180.44,Not a smoker,6.259,84.09,69.8,65.46800947867298,79.52168316831683,In state,On Campus,Public Transit,27.0,8.0,1.0
+90,24656,1994-11-09,2014-08-04,2019-05-13,First position,interior design,Female,0,67.11,181.03156914893617,Not a smoker,8.224,81.68,88.16,70.56,72.53,In state,On Campus,Public Transit,27.0,6.0,3.0
+91,25740,1994-10-26,2014-08-04,2020-05-11,First position,unknown,Female,0,66.97,154.81,Not a smoker,8.285,82.56,89.88,81.44,79.52168316831683,In state,Off Campus,Car,28.0,4.0,3.0
+92,26435,1994-10-18,2014-08-04,2019-05-13,First position,unknown,Female,0,58.18,162.45,Unknown,5.513,77.97,89.03,79.61,92.3,In state,On Campus,Public Transit,27.0,3.0,5.0
+93,26707,1994-10-15,2014-08-04,2020-05-11,First position,Applied Math,Male,0,77.91,172.53,Not a smoker,8.991,83.82,87.67,70.43,74.04,Out of state,Off Campus,Car,23.0,5.0,3.0
+94,26691,1994-10-15,2014-08-04,2019-05-13,First position,unknown,Female,1,63.91,149.48,Not a smoker,4.895,85.27,77.75,69.3,75.6,Out of state,Off Campus,Car,34.0,5.461538461538462,20.0
+95,27539,1994-10-04,2014-08-04,2019-05-13,First position,Graphic Design,Female,0,74.57,266.78,Not a smoker,6.55,85.43,87.7,70.57,77.46,In state,On Campus,Public Transit,27.0,11.0,1.0
+96,49947,1994-09-12,2014-08-04,2019-05-13,First position,marketting,Female,1,68.32,160.54,Not a smoker,5.503,71.12,56.53,55.43,73.56,In state,On Campus,Public Transit,27.0,7.0,9.0
+97,29516,1994-09-10,2014-08-04,2019-05-13,First position,unknown,Female,0,62.98,181.03156914893617,Unknown,6.581933155080214,83.57,84.35,74.31,80.7,In state,unknown,Public Transit,27.0,5.461538461538462,7.208651399491094
+98,30826,1994-08-25,2014-08-04,2019-05-13,First position,unknown,Female,1,65.62,158.96,Not a smoker,6.581933155080214,86.02,79.63,74.44,83.52,In state,Off Campus,Public Transit,53.0,5.0,2.0
+99,30989,1994-08-23,2014-08-04,2020-05-11,First position,Undecided,Female,1,65.05,153.82,Not a smoker,6.581933155080214,90.44,87.64,82.37,79.52168316831683,unknown,Off Campus,Car,36.0,5.0,1.0
+100,32304,1994-08-07,2014-08-04,2020-05-11,First position,Aerospace engineering,Female,1,67.24,157.19,Not a smoker,5.404,82.77,73.27,55.81,79.15,In state,On Campus,Public Transit,27.0,5.461538461538462,2.0
+101,32895,1994-08-01,2014-08-04,2020-05-11,First position,unknown,Male,0,61.75,181.03156914893617,Not a smoker,7.435,82.78755501222494,76.19,70.84,82.31,In state,On Campus,Public Transit,27.0,6.0,13.0
+102,34033,1994-07-17,2014-08-04,2020-05-11,First position,Journalism,Female,0,63.44,140.92,Unknown,6.428,84.34,82.0708,68.01,84.32,In state,On Campus,Public Transit,27.0,9.0,1.0
+103,34800,1994-07-07,2014-08-04,2020-05-11,First position,Math and computer science,Female,1,68.42,168.86,Unknown,6.581933155080214,74.74,73.12,54.49,78.87,Out of state,On Campus,Public Transit,27.0,5.461538461538462,3.0
+104,34919,1994-07-07,2014-08-04,2020-05-11,First position,biologie,Male,0,73.35,181.03156914893617,Smoker,6.581933155080214,59.83,74.71,55.54,74.97,In state,On Campus,Public Transit,27.0,6.0,7.0
+105,36173,1994-06-21,2014-08-04,2019-05-13,First position,bfa music,Female,1,68.37,171.67,Unknown,6.295,76.98,69.59,66.05,71.83,In state,On Campus,Public Transit,27.0,5.0,4.0
+106,37458,1994-06-04,2014-08-04,2019-05-13,First position,unknown,Female,0,60.88,148.84,Not a smoker,6.747,80.52,81.38,67.75,82.68,In state,Off Campus,Car,41.0,2.0,9.0
+107,38186,1994-05-29,2014-08-04,2020-05-11,First position,Art,Male,0,69.62,181.03156914893617,Not a smoker,7.976,74.88,78.19,61.91,85.39,In state,Off Campus,Car,33.0,4.0,7.0
+108,38365,1994-05-27,2014-08-04,2020-05-11,First position,philosophy,Male,1,66.41,175.2,Not a smoker,5.808,77.09,79.08,60.93,76.27,Out of state,On Campus,Public Transit,27.0,10.0,5.0
+109,39281,1994-05-15,2014-08-04,2020-05-11,First position,unknown,Male,1,72.09,184.58,Not a smoker,5.653,87.89,93.3,70.65,75.39,In state,On Campus,Public Transit,27.0,4.0,4.0
+110,39550,1994-05-12,2014-08-04,2019-05-13,First position,unknown,Male,1,75.17,168.11,Not a smoker,5.328,89.24,80.79,65.46800947867298,78.24,In state,Off Campus,Car,26.0,6.0,4.0
+111,42681,1994-04-04,2014-08-04,2019-05-13,First position,physic,Male,1,67.58,192.06,Smoker,5.771,69.96,78.19,68.17,78.57,In state,On Campus,Public Transit,27.0,7.0,13.0
+112,42914,1994-03-30,2014-08-04,2019-05-13,First position,unknown,Female,1,69.92,190.62,Not a smoker,6.118,85.06,80.56,69.25,85.2,Out of state,On Campus,Public Transit,27.0,4.0,10.0
+113,43402,1994-03-25,2014-08-04,2020-05-11,First position,Education - K-12,Female,0,65.81,171.38,Not a smoker,9.247,82.11,77.55,60.62,70.67,unknown,On Campus,Public Transit,27.0,4.0,5.0
+114,43610,1994-03-23,2014-08-04,2020-05-11,First position,Studio art,Female,0,69.7,216.06,Smoker,8.478,79.61,78.38,45.79,77.91,In state,On Campus,Public Transit,27.0,3.0,6.0
+115,44736,1994-03-11,2014-08-04,2020-05-11,First position,finance,Male,1,68.62,188.81,Not a smoker,5.393,87.96,90.1,70.07,79.52168316831683,In state,Off Campus,Public Transit,64.0,4.0,4.0
+116,44661,1994-03-10,2014-08-04,2020-05-11,First position,Clinical Psychology,Female,0,58.31,113.11,Not a smoker,8.133,80.84,82.97,65.46800947867298,83.36,In state,On Campus,Public Transit,27.0,6.0,4.0
+117,45104,1994-03-05,2014-08-04,2020-05-11,First position,unknown,Male,0,65.29,167.51,Not a smoker,7.617,80.64,82.78,60.13,86.08,Out of state,On Campus,Public Transit,27.0,6.0,1.0
+118,45303,1994-03-04,2014-08-04,2020-05-11,First position,journalism,Male,1,76.12,181.03156914893617,Not a smoker,5.605,96.42,99.42,77.14,81.3,In state,unknown,Public Transit,27.0,4.0,1.0
+119,45377,1994-03-01,2014-08-04,2019-05-13,First position,Applied math,Female,0,59.56,119.99,Not a smoker,6.829,83.6,91.38,68.61,80.35,In state,Off Campus,Bike,11.0,5.461538461538462,7.208651399491094
+120,45559,1994-02-28,2014-08-04,2020-05-11,First position,Spanish,Male,0,67.32,216.58,Smoker,6.451,76.55,74.41,64.2,71.37,In state,Off Campus,Car,30.0,7.0,4.0
+121,45550,1994-02-26,2014-08-04,2019-05-13,First position,businness,Female,1,70.41,181.03156914893617,Not a smoker,5.91,84.6,67.82,62.77,82.73,In state,Off Campus,Car,32.0,5.0,4.0
+122,45901,1994-02-24,2014-08-04,2020-05-11,First position,nursing,Male,1,76.76,181.03156914893617,Not a smoker,4.741,78.37,83.32,65.79,81.93,In state,On Campus,Public Transit,27.0,10.0,4.0
+123,46109,1994-02-21,2014-08-04,2020-05-11,First position,Applied Mathematics,Male,0,61.16,132.78,Not a smoker,6.581933155080214,90.8,77.92,65.46,75.46,In state,On Campus,Public Transit,27.0,12.0,3.0
+124,46808,1994-02-12,2014-08-04,2019-05-13,First position,music - piano performance,Male,0,71.79,155.62,Unknown,7.221,90.18,81.7,80.51,75.58,In state,Off Campus,Public Transit,45.0,7.0,6.0
+125,46968,1994-02-10,2014-08-04,2020-05-11,First position,french,Female,1,69.55,160.06,Not a smoker,5.959,88.85,78.56,54.49,85.91,In state,unknown,Public Transit,27.0,7.0,5.0
+126,48216,1994-01-26,2014-08-04,2020-05-11,First position,chem,Male,1,71.21,170.94,Unknown,6.581933155080214,94.33,76.88,74.19,79.99,In state,On Campus,Public Transit,27.0,8.0,4.0
+127,49381,1994-01-11,2014-08-04,2019-05-13,First position,unknown,Female,0,61.53,202.95,Unknown,6.581933155080214,80.03,80.19,65.69,86.64,In state,Off Campus,Car,35.0,3.0,7.208651399491094
+128,49838,1994-01-08,2014-08-04,2019-05-13,First position,unknown,Male,1,71.56,181.03156914893617,Not a smoker,5.651,68.97,78.16,60.06,71.87,In state,On Campus,Public Transit,27.0,10.0,7.0
+129,20248,1994-01-01,2014-08-04,2020-05-11,First position,stats,Neutral,0,61.32,153.87,Unknown,6.449,88.31,97.32,85.07,88.38,Out of state,Off Campus,Car,30.0,5.0,6.0
+130,24267,1993-11-13,2014-08-04,2019-05-13,First position,unknown,Female,0,57.01,113.66,Not a smoker,6.822,86.13,84.98,59.08,81.71,Out of state,On Campus,Public Transit,27.0,4.0,17.0
+131,25577,1993-10-28,2014-08-04,2020-05-11,First position,psychology,Female,0,67.18,178.16,Unknown,8.138,91.36,77.64,59.33,89.69,In state,On Campus,Public Transit,27.0,7.0,4.0
+132,25893,1993-10-25,2014-08-04,2020-05-11,First position,unknown,Male,1,70.33,189.23,Not a smoker,5.798,78.84,71.03,60.19,74.68,unknown,Off Campus,Car,31.0,5.0,7.208651399491094
+133,26481,1993-10-18,2014-08-04,2019-05-13,First position,unknown,Male,1,73.36,181.2,3.0,5.707,64.01,76.44,68.95,73.62,Out of state,On Campus,Public Transit,27.0,4.0,11.0
+134,26998,1993-10-11,2014-08-04,2020-05-11,First position,social work,Male,1,74.56,205.34,Not a smoker,5.259,85.24,81.39,70.74,79.52168316831683,In state,Off Campus,Car,28.0,3.0,7.0
+135,27765,1993-10-01,2014-08-04,2019-05-13,First position,history,Female,1,67.71,196.48,Not a smoker,5.978,70.26,69.19,64.17,66.76,Out of state,On Campus,Public Transit,27.0,5.461538461538462,11.0
+136,30426,1993-08-31,2014-08-04,2019-05-13,First position,unknown,Male,0,74.13,157.94,Not a smoker,8.044,80.01,82.0708,59.68,76.8,In state,On Campus,Public Transit,27.0,3.0,7.208651399491094
+137,31807,1993-08-14,2014-08-04,2019-05-13,First position,nursing,Male,0,78.2,291.99,Not a smoker,7.177,82.78755501222494,73.72,58.64,77.89,Out of state,On Campus,Public Transit,27.0,1.0,3.0
+138,32219,1993-08-09,2014-08-04,2020-05-11,First position,Family and Consumer Science,Male,0,70.4,246.64,Not a smoker,5.753,82.45,89.05,85.19,75.51,Out of state,On Campus,Public Transit,27.0,6.0,7.208651399491094
+139,32187,1993-08-09,2014-08-04,2019-05-13,First position,paralegal studies,Male,1,68.88,152.39,Not a smoker,4.704,89.08,89.63,65.46800947867298,72.86,In state,On Campus,Public Transit,27.0,6.0,10.0
+140,32776,1993-08-02,2014-08-04,2020-05-11,First position,english,Female,0,66.04,221.5,Not a smoker,8.057,89.33,89.86,59.7,84.88,In state,unknown,Car,39.0,5.461538461538462,12.0
+141,34019,1993-07-18,2014-08-04,2019-05-13,First position,statistics,Male,0,64.66,253.22,Unknown,6.581933155080214,86.16,94.94,68.78,71.93,Out of state,Off Campus,Car,25.0,10.0,5.0
+142,34705,1993-07-10,2014-08-04,2019-05-13,First position,unknown,Male,0,74.58,269.38,Not a smoker,6.85,82.95,63.56,57.54,75.98,In state,On Campus,Public Transit,27.0,1.0,7.0
+143,34595,1993-07-10,2014-08-04,2019-05-13,First position,unknown,Female,1,65.64,151.96,Not a smoker,5.544,93.78,83.49,66.03,77.69,Out of state,On Campus,Public Transit,27.0,6.0,4.0
+144,36109,1993-06-22,2014-08-04,2019-05-13,First position,unknown,Female,1,69.66,168.23,Not a smoker,5.162,82.92,81.07,64.33,81.49,Out of state,On Campus,Public Transit,27.0,5.0,4.0
+145,36524,1993-06-18,2014-08-04,2020-05-11,First position,unknown,Male,1,74.27,167.12,Unknown,5.707,75.05,71.04,54.73,72.09,In state,On Campus,Public Transit,27.0,5.0,2.0
+146,38091,1993-05-29,2014-08-04,2019-05-13,First position,unknown,Male,1,78.68,238.64,Unknown,5.768,67.03,68.43,64.06,68.87,In state,On Campus,Public Transit,27.0,5.0,8.0
+147,40408,1993-05-02,2014-08-04,2019-05-13,First position,math,Male,0,73.9,181.27,Not a smoker,6.581933155080214,75.66,81.97,60.76,75.2,In state,On Campus,Public Transit,27.0,8.0,8.0
+148,40803,1993-04-24,2014-08-04,2019-05-13,First position,what?,Female,0,62.38,135.52,Not a smoker,6.566,94.64,89.06,70.44,88.15,In state,On Campus,Public Transit,27.0,3.0,2.0
+149,41397,1993-04-19,2014-08-04,2020-05-11,First position,none of ur bisness!,Female,0,58.93,163.72,Not a smoker,6.673,84.86,80.98,71.64,86.86,In state,Off Campus,Car,20.0,10.0,6.0
+150,43142,1993-03-30,2014-08-04,2020-05-11,First position,Forensic psych,Male,0,68.03176470588237,174.81,Not a smoker,6.348,96.48,81.68,63.49,85.67,In state,On Campus,Public Transit,27.0,1.0,5.0
+151,44929,1993-03-07,2014-08-04,2020-05-11,First position,Visual journalism (photojournalism),Male,0,63.77,236.64,Not a smoker,6.599,86.35,88.85,70.36,74.82,In state,On Campus,Public Transit,27.0,10.0,16.0
+152,44752,1993-03-07,2014-08-04,2020-05-11,First position,Physics,Female,0,71.1,150.07,Not a smoker,8.897,85.36,90.18,60.03,85.15,In state,On Campus,Public Transit,27.0,3.0,1.0
+153,45420,1993-03-01,2014-08-04,2020-05-11,First position,comp sci,Male,1,69.77,230.59,Not a smoker,4.62,84.4,76.6,63.42,72.67,In state,On Campus,Public Transit,27.0,5.461538461538462,16.0
+154,48309,1993-01-24,2014-08-04,2019-05-13,First position,Forensics,Female,0,65.62,123.84,Not a smoker,6.581933155080214,80.59,94.7,74.54,84.25,In state,On Campus,Public Transit,27.0,10.0,4.0
+155,48509,1993-01-24,2014-08-04,2020-05-11,First position,marketing,Male,1,66.27,119.07,Not a smoker,4.556,79.81,77.98,65.48,83.37,In state,On Campus,Public Transit,27.0,6.0,5.0
+156,48541,1993-01-23,2014-08-04,2020-05-11,First position,business admin,Male,0,74.86,267.24,Not a smoker,8.899,90.87,76.84,71.09,80.39,In state,On Campus,Public Transit,27.0,5.461538461538462,3.0
+157,48591,1993-01-22,2014-08-04,2020-05-11,First position,geology,Male,1,69.09,198.92,Not a smoker,4.695,67.77,77.46,59.51,79.52168316831683,In state,Off Campus,Car,21.0,6.0,7.208651399491094
+158,48942,1993-01-16,2014-08-04,2019-05-13,First position,english composition,Female,0,69.84,238.91,Not a smoker,6.756,81.22,83.18,85.32,79.52168316831683,In state,Off Campus,Public Transit,27.0,5.461538461538462,9.0
+159,49342,1993-01-11,2014-08-04,2019-05-13,First position,community counseling,Female,0,55.05,153.83,Not a smoker,6.35,73.72,77.73,66.57,79.52168316831683,In state,On Campus,Public Transit,27.0,5.461538461538462,7.208651399491094
+160,20680,1992-12-27,2014-08-04,2020-05-11,First position,unknown,Female,1,67.73,169.9,Not a smoker,6.621,85.34,84.05,50.7,79.52168316831683,In state,On Campus,Public Transit,27.0,6.0,2.0
+161,22425,1992-12-06,2014-08-04,2020-05-11,First position,Criminology,Female,1,65.03,181.03156914893617,3.0,5.817,82.8,79.38,51.32,75.98,In state,Off Campus,Car,28.0,6.0,4.0
+162,31793,1992-08-13,2014-08-04,2020-05-11,First position,phsycology,Female,0,57.84,155.57,Unknown,8.014,94.74,96.24,69.93,88.19,In state,On Campus,Public Transit,27.0,4.0,4.0
+163,32415,1992-08-07,2014-08-04,2020-05-11,First position,Elementary Education (K-6),Neutral,1,67.98,194.94,Not a smoker,6.581933155080214,87.86,75.84,65.55,77.06,In state,On Campus,Public Transit,27.0,6.0,3.0
+164,34176,1992-07-17,2014-08-04,2019-05-13,First position,CS,Male,1,69.7,173.56,Not a smoker,5.522,65.26,77.09,56.32,72.51,Out of state,On Campus,Public Transit,27.0,4.0,5.0
+165,41411,1992-04-17,2014-08-04,2020-05-11,First position,Fashion Merchandizing,Female,1,66.29,181.03156914893617,Not a smoker,6.581933155080214,86.76,74.05,48.78,91.14,Out of state,On Campus,Public Transit,27.0,10.0,5.0
+166,42540,1992-04-04,2014-08-04,2019-05-13,First position,unknown,Female,1,65.3,153.17,Not a smoker,5.36,75.06,79.5,59.1,76.46,Out of state,On Campus,Public Transit,27.0,6.0,6.0
+167,44533,1992-03-13,2014-08-04,2020-05-11,First position,Liberal Studies,Male,0,68.09,181.03156914893617,Not a smoker,8.755,98.81,80.59,65.46800947867298,81.6,Out of state,On Campus,Public Transit,27.0,10.0,5.0
+168,45711,1992-02-28,2014-08-04,2019-05-13,First position,chem,Male,0,79.25,334.44,Not a smoker,6.485,81.84,87.51,67.33,77.83,Out of state,unknown,Car,22.0,4.0,7.208651399491094
+169,43692,1991-03-22,2014-08-04,2020-05-11,First position,biometrics,Female,0,57.82,170.81,Not a smoker,6.581933155080214,85.53,89.67,78.05,79.52168316831683,In state,On Campus,Public Transit,27.0,8.0,7.0
+170,21606,1990-12-17,2014-08-04,2020-05-11,First position,english,Female,1,68.4,159.92,Not a smoker,5.671,83.33,94.15,67.51,74.97,In state,On Campus,Public Transit,27.0,2.0,6.0
+171,22186,1989-12-10,2014-08-04,2020-05-11,First position,Zoology,Male,0,69.97,210.45,Smoker,8.549,94.41,92.48,73.18,84.32,In state,On Campus,Public Transit,27.0,5.461538461538462,9.0
+172,28642,1987-09-22,2014-08-04,2020-05-11,First position,Human Development and Family Studies,Female,0,65.45,150.12,Not a smoker,6.581933155080214,80.82,69.0,62.53,82.44,In state,unknown,Public Transit,27.0,5.461538461538462,10.0
+173,44795,1987-03-08,2014-08-04,2019-05-13,First position,unknown,Female,0,69.94,240.42,3.0,6.598,93.0,83.23,86.66,90.94,unknown,On Campus,Public Transit,27.0,5.0,5.0
+174,47027,1987-02-10,2014-08-04,2019-05-13,First position,unknown,Female,0,62.73,181.03156914893617,Smoker,7.98,80.74,78.99,59.38,76.49,In state,On Campus,Public Transit,27.0,3.0,11.0
+175,22416,2000-01-01,2014-08-04,2019-05-13,First position,unknown,Male,1,68.03176470588237,181.03156914893617,Not a smoker,4.679,76.87,81.84,76.81,76.28,In state,Off Campus,Car,32.0,6.0,2.0
+176,20255,1996-01-01,2013-08-05,2018-05-14,First runners up,double major english and communications,Female,0,65.75,181.03156914893617,Not a smoker,7.684,80.46,81.22,46.3,72.24,Out of state,unknown,Car,26.0,5.461538461538462,2.0
+177,20826,1995-12-25,2013-08-05,2018-05-14,First runners up,unknown,Male,0,66.21,227.9,Not a smoker,6.229,77.38,67.59,66.59,76.47,In state,On Campus,Public Transit,27.0,9.0,7.0
+178,22494,1995-12-05,2013-08-05,2018-05-14,First runners up,premed,Male,1,64.92,129.16,Not a smoker,5.139,83.11,75.79,65.43,79.52168316831683,unknown,unknown,Public Transit,27.0,4.0,5.0
+179,27688,1995-10-02,2013-08-05,2018-05-14,First runners up,archaeology,Female,0,69.41,170.86,Smoker,7.652,86.99,84.61,78.33,84.56,Out of state,On Campus,Public Transit,27.0,5.461538461538462,3.0
+180,29363,1995-09-12,2013-08-05,2019-05-13,First runners up,unknown,Female,0,66.93,218.56,3.0,6.615,90.33,96.79,69.79,93.01,In state,On Campus,Public Transit,27.0,4.0,7.208651399491094
+181,34623,1995-07-10,2013-08-05,2018-05-14,First runners up,unknown,Female,0,66.21,217.45,Not a smoker,6.902,78.2,75.92,46.99,81.43,unknown,Off Campus,Car,35.0,7.0,8.0
+182,35350,1995-07-01,2013-08-05,2018-05-14,First runners up,unknown,Female,0,56.36,126.47,Not a smoker,7.57,87.33,67.42,53.17,87.05,Out of state,On Campus,Public Transit,27.0,7.0,3.0
+183,36655,1995-06-16,2013-08-05,2019-05-13,First runners up,biostatistics,Male,1,64.39,194.98,Not a smoker,5.27,81.9,81.98,73.83,73.72,In state,Off Campus,Car,24.0,8.0,6.0
+184,46265,1995-02-20,2013-08-05,2018-05-14,First runners up,bio tech,Male,1,69.97,172.91,Not a smoker,5.521,91.92,73.49,63.88,85.42,In state,Off Campus,Public Transit,27.0,8.0,7.208651399491094
+185,22617,1994-12-04,2013-08-05,2018-05-14,First runners up,graphic design with a minor in photography,Male,1,74.05,181.03156914893617,Unknown,5.504,82.14,86.18,67.71,76.71,In state,On Campus,Public Transit,27.0,5.0,7.0
+186,25034,1994-11-04,2013-08-05,2018-05-14,First runners up,Secondary Education,Female,0,66.35,181.03156914893617,Not a smoker,7.403,74.68,75.42,62.08,77.96,In state,On Campus,Public Transit,27.0,5.0,3.0
+187,25221,1994-11-02,2013-08-05,2018-05-14,First runners up,World history,Male,1,67.31,206.56,Not a smoker,5.02,73.12,87.62,63.49,69.56,In state,On Campus,Public Transit,27.0,6.0,2.0
+188,26961,1994-10-11,2013-08-05,2019-05-13,First runners up,unknown,Female,0,60.51,134.85,Not a smoker,7.802,83.45,90.41,60.94,76.85,In state,Off Campus,Car,18.0,5.0,4.0
+189,27435,1994-10-05,2013-08-05,2019-05-13,First runners up,unknown,Female,0,62.32,186.5,Smoker,6.876,83.83,94.87,73.25,81.85,In state,Off Campus,Car,32.0,1.0,5.0
+190,28084,1994-09-29,2013-08-05,2019-05-13,First runners up,architecture,Male,0,70.16,181.03156914893617,Not a smoker,8.246,91.72,86.81,71.22,81.83,In state,On Campus,Public Transit,27.0,6.0,4.0
+191,28460,1994-09-23,2013-08-05,2018-05-14,First runners up,Photography/Photo Illustration,Female,1,66.95,161.61,Not a smoker,5.632,77.68,73.78,61.55,86.28,In state,On Campus,Public Transit,27.0,4.0,3.0
+192,28570,1994-09-22,2013-08-05,2019-05-13,First runners up,unknown,Male,0,67.93,136.96,Unknown,6.581933155080214,71.28,66.97,59.05,77.43,In state,On Campus,Public Transit,27.0,9.0,7.208651399491094
+193,29313,1994-09-13,2013-08-05,2018-05-14,First runners up,Fashion design,Male,1,65.56,162.63,Smoker,5.153,86.47,85.19,64.45,79.36,In state,On Campus,Public Transit,27.0,5.0,3.0
+194,31189,1994-08-21,2013-08-05,2019-05-13,First runners up,phys ed,Male,1,75.44,205.84,Not a smoker,5.886,81.19,89.84,68.4,81.66,In state,On Campus,Public Transit,27.0,8.0,12.0
+195,31576,1994-08-16,2013-08-05,2018-05-14,First runners up,unknown,Female,1,65.02,143.05,Not a smoker,5.644,82.78755501222494,80.45,66.51,72.36,In state,On Campus,Public Transit,27.0,8.0,1.0
+196,32437,1994-08-06,2013-08-05,2019-05-13,First runners up,education - social studies,Female,0,62.28,128.98,Not a smoker,6.476,74.59,72.61,63.64,78.86,unknown,Off Campus,Car,18.0,6.0,1.0
+197,32439,1994-08-05,2013-08-05,2018-05-14,First runners up,unknown,Female,1,65.45,149.18,Not a smoker,5.472,91.44,96.56,76.42,87.32,Out of state,Off Campus,Car,28.0,8.0,7.0
+198,33117,1994-07-28,2013-08-05,2019-05-13,First runners up,english literature,Female,1,63.27,122.85,Not a smoker,5.303,87.75,81.48,62.87,80.16,In state,On Campus,Public Transit,27.0,5.0,7.0
+199,33377,1994-07-25,2013-08-05,2019-05-13,First runners up,unknown,Female,0,57.5,103.44,Not a smoker,7.708,84.18,87.59,61.3,82.64,In state,On Campus,Public Transit,27.0,8.0,3.0
+200,33454,1994-07-24,2013-08-05,2018-05-14,First runners up,unknown,Female,0,76.3,228.36,Unknown,7.586,82.78755501222494,76.12,64.49,85.19,In state,Off Campus,Car,37.0,6.0,4.0
+201,36104,1994-06-23,2013-08-05,2019-05-13,First runners up,eudcation,Male,1,70.74,175.65,Not a smoker,4.716,76.49,89.04,62.25,67.08,In state,Off Campus,Car,26.0,1.0,10.0
+202,36406,1994-06-18,2013-08-05,2019-05-13,First runners up,Marketing & Graphic Design,Female,0,68.21,219.26,Not a smoker,7.337,82.46,98.48,60.56,78.51,In state,On Campus,Public Transit,27.0,4.0,8.0
+203,36714,1994-06-16,2013-08-05,2019-05-13,First runners up,busieness,Male,0,69.93,199.78,3.0,6.905,95.11,94.66,73.25,77.75,In state,On Campus,Public Transit,27.0,6.0,6.0
+204,36693,1994-06-14,2013-08-05,2019-05-13,First runners up,Accounting,Female,0,67.65,127.16,Unknown,9.475,80.53,87.96,64.28,81.96,In state,On Campus,Public Transit,27.0,5.0,5.0
+205,37615,1994-06-02,2013-08-05,2018-05-14,First runners up,science education (k-12),Female,1,68.33,156.75,3.0,5.769,76.01,79.17,65.63,79.52168316831683,In state,On Campus,Public Transit,27.0,5.0,7.0
+206,38362,1994-05-26,2013-08-05,2019-05-13,First runners up,unknown,Male,0,74.29,184.6,Not a smoker,9.071,90.5,84.56,68.59,73.07,In state,On Campus,Public Transit,27.0,4.0,1.0
+207,38549,1994-05-24,2013-08-05,2019-05-13,First runners up,chem engineering,Male,0,78.55,164.79,Not a smoker,8.142,91.2,89.95,77.45,82.24,unknown,Off Campus,Car,24.0,6.0,3.0
+208,41157,1994-04-21,2013-08-05,2019-05-13,First runners up,unknown,Female,0,73.12,159.82,Not a smoker,8.512,77.67,92.88,76.91,78.91,Out of state,On Campus,Public Transit,27.0,11.0,4.0
+209,41227,1994-04-19,2013-08-05,2018-05-14,First runners up,unknown,Female,0,68.03176470588237,272.51,Not a smoker,7.296,87.73,80.22,69.55,82.11,In state,On Campus,Public Transit,27.0,5.0,8.0
+210,41870,1994-04-11,2013-08-05,2019-05-13,First runners up,I am currently exploring options,Female,0,55.0,101.71,Not a smoker,7.433,86.23,89.19,61.2,88.91,Out of state,unknown,Car,24.0,9.0,3.0
+211,42217,1994-04-07,2013-08-05,2018-05-14,First runners up,unknown,Neutral,1,70.1,186.81,Not a smoker,5.617,87.15,91.86,70.96,89.84,Out of state,On Campus,Public Transit,27.0,7.0,4.0
+212,42783,1994-04-03,2013-08-05,2018-05-14,First runners up,Neuroscience,Male,0,61.66,181.77,Unknown,7.332,87.71,91.03,76.42,84.27,In state,Off Campus,Car,28.0,7.0,2.0
+213,42830,1994-04-02,2013-08-05,2018-05-14,First runners up,Econ,Male,1,77.55,166.64,Not a smoker,5.238,76.12,88.46,66.48,79.52168316831683,In state,Off Campus,Car,28.0,5.461538461538462,2.0
+214,42791,1994-04-01,2013-08-05,2019-05-13,First runners up,Theology,Female,0,63.52,180.09,Not a smoker,9.241,85.62,82.48,82.4,87.1,In state,On Campus,Public Transit,27.0,10.0,5.0
+215,43973,1994-03-17,2013-08-05,2018-05-14,First runners up,Mathematics,Female,0,74.1,212.69,Unknown,8.429,80.53,94.46,76.73,86.66,unknown,On Campus,Public Transit,27.0,12.0,3.0
+216,47506,1994-02-03,2013-08-05,2019-05-13,First runners up,Biology,Female,1,62.74,161.47,Not a smoker,6.581933155080214,75.09,88.17,72.1,76.65,unknown,On Campus,Public Transit,27.0,8.0,7.0
+217,49879,1994-01-07,2013-08-05,2018-05-14,First runners up,exercise science,Male,1,72.09,217.25,Not a smoker,5.46,72.8,73.18,53.71,72.41,Out of state,Off Campus,Car,27.0,6.0,4.0
+218,20402,1993-12-31,2013-08-05,2018-05-14,First runners up,biz admin,Male,0,62.46,202.77,Not a smoker,6.132,74.15,80.96,69.39,75.77,In state,Off Campus,Car,30.0,9.0,7.0
+219,20626,1993-12-28,2013-08-05,2019-05-13,First runners up,unknown,Female,0,57.42,179.34,Unknown,6.619,73.12,81.34,69.47,78.81,In state,Off Campus,Public Transit,53.0,6.0,2.0
+220,20903,1993-12-25,2013-08-05,2019-05-13,First runners up,unknown,Male,1,65.99,141.53,Not a smoker,5.663,89.95,83.61,61.04,78.86,In state,Off Campus,Car,23.0,5.461538461538462,4.0
+221,22742,1993-12-02,2013-08-05,2018-05-14,First runners up,sports med,Female,0,74.47,181.03156914893617,Not a smoker,7.499,84.14,68.46,47.42,85.33,unknown,On Campus,Public Transit,27.0,4.0,8.0
+222,23731,1993-11-20,2013-08-05,2019-05-13,First runners up,Theater,Male,1,72.69,209.32,Not a smoker,5.554,87.83,84.06,63.32,72.53,In state,Off Campus,Public Transit,57.0,4.0,3.0
+223,25714,1993-10-27,2013-08-05,2018-05-14,First runners up,unknown,Neutral,0,61.49,237.06,Not a smoker,6.32,82.23,86.94,62.51,75.63,In state,unknown,Public Transit,27.0,5.461538461538462,6.0
+224,28053,1993-09-28,2013-08-05,2019-05-13,First runners up,math ed,Female,0,67.77,150.92,Not a smoker,8.17,88.16,80.86,58.27,78.2,In state,On Campus,Public Transit,27.0,7.0,3.0
+225,28668,1993-09-21,2013-08-05,2019-05-13,First runners up,undecided,Male,1,65.13,158.49,Not a smoker,6.581933155080214,77.07,86.95,68.02,79.05,In state,unknown,Public Transit,27.0,5.0,12.0
+226,29238,1993-09-14,2013-08-05,2018-05-14,First runners up,Urban studies,Male,1,76.44,195.2,Not a smoker,5.232,86.46,91.52,74.07,78.15,In state,Off Campus,Car,33.0,8.0,13.0
+227,30418,1993-08-31,2013-08-05,2019-05-13,First runners up,nursing,Neutral,0,64.75,227.08,Not a smoker,6.52,96.16,78.02,58.29,79.61,unknown,Off Campus,Car,40.0,7.0,7.208651399491094
+228,30720,1993-08-27,2013-08-05,2018-05-14,First runners up,pan-african studies and english,Male,0,64.83,159.95,Not a smoker,6.897,82.06,78.72,73.13,73.33,In state,Off Campus,Car,21.0,13.0,12.0
+229,35687,1993-06-26,2013-08-05,2019-05-13,First runners up,Sociology,Female,0,57.33,108.01,Not a smoker,8.525,81.74,83.16,46.25,84.22,In state,On Campus,Public Transit,27.0,8.0,7.0
+230,36368,1993-06-19,2013-08-05,2019-05-13,First runners up,unknown,Male,1,74.96,183.16,Not a smoker,4.642,68.77,85.45,64.91,70.19,Out of state,Off Campus,Public Transit,40.0,10.0,7.208651399491094
+231,36336,1993-06-18,2013-08-05,2018-05-14,First runners up,Economics,Female,0,67.7,123.31,Not a smoker,8.103,82.15,96.24,67.59,79.11,In state,Off Campus,Car,26.0,3.0,4.0
+232,37105,1993-06-08,2013-08-05,2018-05-14,First runners up,Undecided,Female,1,66.15,181.03156914893617,Unknown,6.651,76.62,79.86,59.55,82.14,In state,Off Campus,Car,24.0,5.0,3.0
+233,37421,1993-06-07,2013-08-05,2018-05-14,First runners up,Englis,Male,1,70.36,217.99,Not a smoker,5.755,82.78755501222494,92.05,78.63,78.19,In state,Off Campus,Public Transit,51.0,4.0,5.0
+234,37301,1993-06-06,2013-08-05,2018-05-14,First runners up,unknown,Female,0,68.03176470588237,180.47,Unknown,7.623,90.83,90.28,66.51,78.65,Out of state,Off Campus,Public Transit,43.0,7.0,1.0
+235,38418,1993-05-25,2013-08-05,2018-05-14,First runners up,unknown,Male,0,66.99,122.67,Not a smoker,7.08,69.32,66.09,51.08,80.44,In state,On Campus,Public Transit,27.0,7.0,5.0
+236,38724,1993-05-21,2013-08-05,2019-05-13,First runners up,I'm not answering this. This survey is too long and I am b,Female,1,62.98,159.58,Not a smoker,5.536,80.71,80.56,65.46800947867298,75.48,In state,On Campus,Public Transit,27.0,4.0,4.0
+237,41156,1993-04-21,2013-08-05,2019-05-13,First runners up,unknown,Female,1,66.61,172.85,Not a smoker,5.083,82.78755501222494,81.11,72.83,90.81,unknown,Off Campus,Car,27.0,6.0,16.0
+238,41503,1993-04-19,2013-08-05,2019-05-13,First runners up,unknown,Male,0,68.35,216.11,Not a smoker,6.326,85.29,72.55,65.46800947867298,80.46,In state,On Campus,Public Transit,27.0,5.0,13.0
+239,43678,1993-03-24,2013-08-05,2018-05-14,First runners up,business admin,Neutral,1,67.15,187.29,Not a smoker,5.108,73.31,81.99,73.2,74.14,In state,On Campus,Public Transit,27.0,2.0,4.0
+240,43971,1993-03-18,2013-08-05,2019-05-13,First runners up,unknown,Female,1,64.7,182.59,Not a smoker,6.093,83.27,80.54,70.55,86.27,In state,On Campus,Public Transit,27.0,4.0,7.208651399491094
+241,45902,1993-02-24,2013-08-05,2019-05-13,First runners up,unknown,Male,0,65.22,154.11,Unknown,6.581933155080214,85.16,83.96,64.56,90.62,In state,On Campus,Public Transit,27.0,10.0,6.0
+242,46663,1993-02-13,2013-08-05,2018-05-14,First runners up,unknown,Female,0,70.77,267.37,Smoker,6.391,84.79,87.04,64.34,76.01,Out of state,On Campus,Public Transit,27.0,5.0,5.0
+243,47339,1993-02-04,2013-08-05,2019-05-13,First runners up,unknown,Female,1,66.63,164.82,Not a smoker,6.092,69.78,77.16,62.23,78.04,In state,Off Campus,Car,32.0,10.0,13.0
+244,47912,1993-01-29,2013-08-05,2019-05-13,First runners up,Comm,Male,0,64.31,211.65,Not a smoker,6.581933155080214,88.02,81.46,57.78,80.37,Out of state,On Campus,Public Transit,27.0,4.0,4.0
+245,48764,1993-01-16,2013-08-05,2018-05-14,First runners up,unknown,Female,0,60.94,198.51,Unknown,6.29,85.55,88.08,72.74,89.31,In state,Off Campus,Car,31.0,6.0,7.208651399491094
+246,49386,1993-01-11,2013-08-05,2019-05-13,First runners up,Spanish,Female,0,68.33,170.81,Not a smoker,8.678,82.78755501222494,70.5,57.16,90.66,In state,On Campus,Public Transit,27.0,6.0,11.0
+247,27037,1992-10-11,2013-08-05,2019-05-13,First runners up,botany,Male,0,82.4,329.2,Unknown,6.698,72.66,74.61,63.23,71.7,Out of state,On Campus,Public Transit,27.0,9.0,4.0
+248,29009,1992-09-17,2013-08-05,2019-05-13,First runners up,music,Female,0,60.13,115.83,3.0,8.598,75.56,75.68,57.47,74.78,In state,On Campus,Public Transit,27.0,3.0,3.0
+249,32224,1992-08-09,2013-08-05,2018-05-14,First runners up,I want to be a doctor,Male,1,75.5,212.01,Not a smoker,5.031,82.78755501222494,77.85,63.79,85.42,In state,Off Campus,Car,25.0,7.0,4.0
+250,32712,1992-08-03,2013-08-05,2018-05-14,First runners up,Exercise Science (Exercise Specialist),Male,0,67.81,318.87,Unknown,5.99,90.29,78.63,65.35,76.83,In state,Off Campus,Car,27.0,3.0,9.0
+251,37553,1992-06-06,2013-08-05,2019-05-13,First runners up,unknown,Male,0,68.22,167.04,Not a smoker,8.221,82.86,80.98,67.23,79.49,In state,Off Campus,Car,18.0,3.0,5.0
+252,39290,1992-05-14,2013-08-05,2019-05-13,First runners up,unknown,Female,0,56.92,166.97,3.0,6.813,90.43,80.36,57.17,87.33,unknown,On Campus,Public Transit,27.0,8.0,7.0
+253,40193,1992-05-05,2013-08-05,2018-05-14,First runners up, spanish language education,Male,0,80.41,321.24,Unknown,6.832,89.53,83.73,72.98,81.03,Out of state,On Campus,Public Transit,27.0,4.0,4.0
+254,45784,1992-02-25,2013-08-05,2019-05-13,First runners up,unknown,Female,0,61.2,181.03156914893617,Unknown,6.581933155080214,82.78755501222494,80.79,65.46800947867298,76.25,Out of state,Off Campus,Car,27.0,2.0,5.0
+255,46911,1992-02-11,2013-08-05,2019-05-13,First runners up,unknown,Female,0,76.97,269.82,Not a smoker,7.153,77.36,80.47,72.62,89.02,In state,On Campus,Public Transit,27.0,5.0,4.0
+256,47007,1992-02-10,2013-08-05,2019-05-13,First runners up,it was biology but I switched to psych,Female,1,64.13,153.72,Not a smoker,5.551,83.71,83.97,69.37,81.64,In state,On Campus,Public Transit,27.0,6.0,5.0
+257,48816,1992-01-19,2013-08-05,2018-05-14,First runners up,Bio,Female,0,67.26,182.98,Unknown,6.581933155080214,86.89,74.5,66.02,83.58,In state,On Campus,Public Transit,27.0,7.0,5.0
+258,49445,1992-01-13,2013-08-05,2019-05-13,First runners up,music tech (production),Male,1,80.71,206.96,3.0,4.93,93.57,85.35,66.54,82.41,In state,Off Campus,Car,31.0,10.0,7.208651399491094
+259,22417,1991-12-07,2013-08-05,2019-05-13,First runners up,Business,Female,0,57.2,181.03156914893617,Not a smoker,6.581933155080214,83.75,81.54,51.95,77.56,In state,On Campus,Public Transit,27.0,13.0,4.0
+260,26199,1991-10-22,2013-08-05,2018-05-14,First runners up,bphil,Female,0,64.88,162.8,Not a smoker,7.99,83.2,76.03,54.85,85.8,In state,Off Campus,Car,20.0,2.0,8.0
+261,29464,1991-09-12,2013-08-05,2018-05-14,First runners up,wissenschaft,Female,0,66.38,124.59,Not a smoker,9.597,85.52,80.77,50.11,83.67,In state,Off Campus,Car,18.0,5.461538461538462,9.0
+262,29529,1991-09-11,2013-08-05,2019-05-13,First runners up,communications,Female,1,69.94,181.03156914893617,Not a smoker,4.637,89.68,90.6,69.89,80.68,In state,Off Campus,Car,28.0,5.461538461538462,2.0
+263,29757,1991-09-09,2013-08-05,2019-05-13,First runners up,unknown,Male,1,73.19,174.59,Not a smoker,5.835,78.74,81.77,70.19,75.83,In state,Off Campus,Car,20.0,3.0,9.0
+264,40601,1991-04-30,2013-08-05,2019-05-13,First runners up,sociology,Male,1,70.38,181.03156914893617,Not a smoker,6.581933155080214,70.35,64.6,60.57,75.92,Out of state,Off Campus,Car,35.0,9.0,6.0
+265,41147,1991-04-24,2013-08-05,2018-05-14,First runners up,unknown,Male,0,73.01,173.43,Not a smoker,6.581933155080214,75.58,74.57,63.84,79.52168316831683,Out of state,unknown,Public Transit,27.0,4.0,3.0
+266,47835,1991-01-29,2013-08-05,2019-05-13,First runners up,Undecided,Female,0,74.93,162.2,Not a smoker,9.244,83.79,95.46,67.86,80.03,In state,On Campus,Public Transit,27.0,8.0,4.0
+267,26262,1990-10-22,2013-08-05,2018-05-14,First runners up,"Double major in Sociology and Psychology,minor in history",Male,0,66.64,161.08,Not a smoker,7.207,83.59,81.11,83.54,76.56,In state,Off Campus,Car,28.0,8.0,11.0
+268,28689,1990-09-22,2013-08-05,2018-05-14,First runners up,journalism,Male,0,60.49,181.03156914893617,3.0,8.001,90.64,91.65,70.38,78.62,In state,Off Campus,Car,38.0,10.0,3.0
+269,39867,1990-05-08,2013-08-05,2019-05-13,First runners up,biology,Male,0,66.07,116.99,Unknown,8.929,86.91,82.0708,73.52,75.85,Out of state,Off Campus,Car,30.0,8.0,6.0
+270,22054,1989-12-12,2013-08-05,2018-05-14,First runners up,unknown,Male,1,71.67,181.03156914893617,Not a smoker,6.581933155080214,84.96,86.06,56.81,72.0,unknown,Off Campus,Car,30.0,8.0,3.0
+271,33017,2000-01-01,2013-08-05,2019-05-13,First runners up,undecided but leaning toward business,Male,1,71.28,153.92,Not a smoker,4.717,76.75,81.1,51.11,74.47,In state,On Campus,Public Transit,27.0,3.0,2.0
+272,29103,1994-09-16,2012-08-06,2018-05-14,Second runners up,eduactaion,Male,0,78.62,221.55,Unknown,6.581933155080214,82.87,83.06,71.03,69.87,In state,Off Campus,Walk,18.0,7.0,9.0
+273,20758,1993-12-26,2012-08-06,2018-05-14,Second runners up,International Bussness,Male,1,64.12,173.01,Not a smoker,5.005,79.11,83.4,64.08,84.12,In state,Off Campus,Car,23.0,5.0,10.0
+274,21345,1993-12-19,2012-08-06,2018-05-14,Second runners up,chemistry,Male,1,72.81,228.27,Not a smoker,6.581933155080214,82.78755501222494,90.42,75.93,79.71,In state,Off Campus,Car,44.0,5.461538461538462,19.0
+275,21389,1993-12-19,2012-08-06,2017-05-08,Second runners up,dance,Female,1,65.39,151.53,Not a smoker,6.581933155080214,78.95,79.34,64.38,79.52168316831683,In state,Off Campus,Car,33.0,4.0,5.0
+276,22961,1993-11-30,2012-08-06,2017-05-08,Second runners up,broadcast journalism,Male,1,69.73,221.92,Not a smoker,5.585,82.18,81.02,66.15,79.47,Out of state,Off Campus,Car,40.0,11.0,6.0
+277,23155,1993-11-27,2012-08-06,2018-05-14,Second runners up,Anthropology,Female,1,69.59,181.03156914893617,Not a smoker,5.951,82.78755501222494,84.15,73.84,85.49,In state,Off Campus,Car,25.0,3.0,7.0
+278,24480,1993-11-11,2012-08-06,2017-05-08,Second runners up,comm studies,Male,1,77.19,207.04,Not a smoker,5.392,86.69,80.53,63.2,70.74,Out of state,Off Campus,Walk,15.0,9.0,7.0
+279,26776,1993-10-14,2012-08-06,2017-05-08,Second runners up,Composition,Female,0,70.5,178.58,Smoker,7.744,79.69,84.04,64.38,80.86,In state,Off Campus,Walk,12.0,5.0,10.0
+280,27203,1993-10-08,2012-08-06,2017-05-08,Second runners up,"triple major in math,stats,and biology",Female,0,77.03,220.63,Not a smoker,7.423,89.33,95.46,82.45,86.08,In state,Off Campus,Bike,8.0,4.0,12.0
+281,27365,1993-10-07,2012-08-06,2017-05-08,Second runners up,poli sci,Female,0,74.4,162.16,Smoker,8.37,78.66,79.62,52.03,85.68,In state,Off Campus,Bike,6.0,4.0,3.0
+282,27958,1993-09-30,2012-08-06,2017-05-08,Second runners up,Pre-LawÂ ,Male,0,65.68,201.31,Not a smoker,6.881,82.78755501222494,88.39,70.57,78.42,Out of state,Off Campus,Car,28.0,5.461538461538462,6.0
+283,28874,1993-09-18,2012-08-06,2018-05-14,Second runners up,unknown,Female,1,62.6,109.93,Not a smoker,5.824,83.14,83.74,53.37,81.09,Out of state,Off Campus,Car,31.0,10.0,12.0
+284,29507,1993-09-11,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,71.39,144.7,Not a smoker,8.193,94.85,86.33,68.35,79.52168316831683,In state,Off Campus,Public Transit,27.0,5.0,12.0
+285,30904,1993-08-24,2012-08-06,2017-05-08,Second runners up,unknown,Female,0,61.94,204.23,Smoker,6.075,77.66,66.99,59.6,76.33,In state,Off Campus,Car,19.0,3.0,3.0
+286,31160,1993-08-20,2012-08-06,2018-05-14,Second runners up,unknown,Female,1,67.63,167.76,Smoker,5.413,81.45,88.5,64.31,77.29,Out of state,On Campus,Public Transit,27.0,5.0,9.0
+287,32069,1993-08-11,2012-08-06,2017-05-08,Second runners up,film studies,Male,1,70.75,161.4,Not a smoker,5.595,82.54,83.33,69.79,83.66,In state,Off Campus,Public Transit,64.0,6.0,4.0
+288,32440,1993-08-05,2012-08-06,2017-05-08,Second runners up,unknown,Female,1,64.1,158.74,Not a smoker,4.779,89.73,84.52,71.87,86.49,In state,Off Campus,Car,17.0,2.0,7.0
+289,32657,1993-08-04,2012-08-06,2017-05-08,Second runners up,unknown,Male,0,77.58,181.03156914893617,Not a smoker,6.333,78.08,70.9,61.43,79.37,In state,Off Campus,Car,30.0,3.0,17.0
+290,33204,1993-07-28,2012-08-06,2017-05-08,Second runners up,unknown,Male,1,75.38,163.87,Not a smoker,5.141,92.32,86.05,62.61,79.61,In state,On Campus,Public Transit,27.0,8.0,3.0
+291,34212,1993-07-15,2012-08-06,2018-05-14,Second runners up,epidemiology,Female,1,69.66,181.03156914893617,Smoker,5.795,82.98,84.31,67.97,90.9,Out of state,Off Campus,Walk,10.0,6.0,16.0
+292,36657,1993-06-15,2012-08-06,2018-05-14,Second runners up,Chemstry,Female,0,70.71,169.66,Unknown,8.232,91.91,91.58,67.08,85.88,In state,Off Campus,Car,28.0,3.0,9.0
+293,37328,1993-06-08,2012-08-06,2018-05-14,Second runners up,jhlksjhreksh,Male,1,68.03176470588237,216.02,Unknown,5.867,88.57,83.81,63.18,75.69,In state,Off Campus,Car,30.0,5.0,9.0
+294,37333,1993-06-07,2012-08-06,2018-05-14,Second runners up,political science,Female,0,64.65,150.23,Not a smoker,6.566,89.12,82.0708,69.9,86.33,In state,Off Campus,Car,30.0,4.0,15.0
+295,37881,1993-05-30,2012-08-06,2017-05-08,Second runners up,unknown,Female,0,77.33,202.67,Not a smoker,7.394,82.78755501222494,80.21,63.59,86.54,Out of state,Off Campus,Car,23.0,6.0,5.0
+296,38631,1993-05-23,2012-08-06,2018-05-14,Second runners up,unknown,Male,1,68.07,190.81,Not a smoker,6.581933155080214,94.67,94.17,81.01,86.68,unknown,Off Campus,Car,32.0,7.0,8.0
+297,39033,1993-05-17,2012-08-06,2017-05-08,Second runners up,biology,Female,1,67.69,164.02,Not a smoker,5.791,80.97,70.75,60.08,76.89,Out of state,Off Campus,Car,28.0,7.0,9.0
+298,39816,1993-05-07,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,63.96,185.01,3.0,8.274,78.85,85.44,62.8,76.39,Out of state,Off Campus,Car,26.0,1.0,14.0
+299,40662,1993-04-29,2012-08-06,2018-05-14,Second runners up,English with minor in spanish,Male,1,76.12,220.77,Unknown,5.671,81.41,74.4,65.1,76.24,Out of state,Off Campus,Car,25.0,4.0,4.0
+300,40916,1993-04-25,2012-08-06,2017-05-08,Second runners up,biotechnology,Female,0,70.5,275.79,Not a smoker,7.276,91.25,97.69,77.73,83.53,Out of state,Off Campus,Car,27.0,6.0,7.208651399491094
+301,42216,1993-04-09,2012-08-06,2017-05-08,Second runners up,nursing,Male,0,69.66,148.39,Smoker,7.767,87.73,80.76,54.12,71.37,Out of state,Off Campus,Car,25.0,2.0,4.0
+302,42474,1993-04-06,2012-08-06,2018-05-14,Second runners up,epidemeology,Female,0,67.65,215.38,Not a smoker,7.266,81.29,84.1,65.46800947867298,74.3,Out of state,Off Campus,Walk,14.0,2.0,6.0
+303,43255,1993-03-29,2012-08-06,2017-05-08,Second runners up,polisci,Male,0,65.56,186.21,Smoker,6.363,79.12,76.14,72.92,71.0,In state,Off Campus,Car,23.0,7.0,4.0
+304,48033,1993-01-26,2012-08-06,2017-05-08,Second runners up,unknown,Female,1,68.84,175.69,Not a smoker,4.621,83.89,75.34,53.49,72.11,In state,Off Campus,Walk,11.0,5.0,7.208651399491094
+305,20243,1993-01-02,2012-08-06,2017-05-08,Second runners up,spanish,Female,0,65.99,128.4,Smoker,8.097,81.96,82.52,64.05,81.58,In state,Off Campus,Car,21.0,3.0,7.0
+306,22029,1992-12-11,2012-08-06,2018-05-14,Second runners up,unknown,Female,1,65.17,181.03156914893617,Not a smoker,6.33,78.98,91.92,74.43,77.14,Out of state,Off Campus,Bike,13.0,7.0,22.0
+307,22147,1992-12-09,2012-08-06,2018-05-14,Second runners up,statistics,Female,0,61.17,126.82,Unknown,7.12,85.67,91.34,65.46800947867298,88.33,In state,Off Campus,Bike,4.0,5.0,15.0
+308,22938,1992-11-30,2012-08-06,2018-05-14,Second runners up,mechanical engineering,Male,0,73.84,261.08,Not a smoker,6.43,75.56,82.0708,57.61,79.52168316831683,Out of state,Off Campus,Car,23.0,3.0,9.0
+309,23514,1992-11-22,2012-08-06,2017-05-08,Second runners up,religious studies,Female,0,68.03176470588237,115.19,Unknown,8.314,87.76,80.41,46.68,83.13,Out of state,Off Campus,Car,32.0,0.0,4.0
+310,25866,1992-10-25,2012-08-06,2017-05-08,Second runners up,Geography,Female,1,67.29,158.08,Not a smoker,6.212,77.78,85.61,65.15,76.63,In state,Off Campus,Car,27.0,5.0,10.0
+311,26223,1992-10-20,2012-08-06,2017-05-08,Second runners up,unknown,Female,0,66.67,224.44,Not a smoker,6.581933155080214,87.29,89.62,69.11,79.52168316831683,In state,Off Campus,Car,39.0,4.0,17.0
+312,26843,1992-10-13,2012-08-06,2017-05-08,Second runners up,natural science,Female,0,57.24,170.0,Not a smoker,6.581933155080214,81.0,86.66,69.38,79.52168316831683,In state,Off Campus,Car,25.0,9.0,8.0
+313,27177,1992-10-09,2012-08-06,2017-05-08,Second runners up,unknown,Female,1,64.14,181.03156914893617,Not a smoker,5.974,88.15,73.14,46.66,85.12,In state,Off Campus,Car,22.0,7.0,10.0
+314,27638,1992-10-04,2012-08-06,2018-05-14,Second runners up,graphic design,Male,0,69.99,291.73,Not a smoker,7.46,82.78755501222494,69.84,60.41,86.99,Out of state,Off Campus,Walk,16.0,5.0,5.0
+315,28044,1992-09-29,2012-08-06,2017-05-08,Second runners up,Psyc,Male,0,74.37,181.03156914893617,Not a smoker,6.581933155080214,85.18,96.12,73.09,75.36,In state,Off Campus,Car,33.0,4.0,9.0
+316,49806,1992-09-22,2012-08-06,2017-05-08,Second runners up,Art education,Female,0,63.22,127.69,3.0,7.616,78.3,82.0708,77.03,78.7,In state,On Campus,Public Transit,27.0,3.0,4.0
+317,29967,1992-09-06,2012-08-06,2017-05-08,Second runners up,pre-med,Male,0,74.28,264.16,Not a smoker,6.091,73.27,82.94,70.89,76.99,In state,Off Campus,Car,30.0,6.0,19.0
+318,30337,1992-08-31,2012-08-06,2017-05-08,Second runners up,unknown,Female,1,64.95,150.39,Not a smoker,5.619,81.75,81.38,56.27,82.77,In state,Off Campus,Car,27.0,4.0,8.0
+319,33162,1992-07-28,2012-08-06,2018-05-14,Second runners up,social work,Male,0,68.03176470588237,204.54,Unknown,5.451,81.73,86.8,67.03,77.71,In state,On Campus,Public Transit,27.0,6.0,10.0
+320,34690,1992-07-08,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,57.06,113.7,Unknown,7.993,83.34,75.52,67.0,78.89,In state,On Campus,Public Transit,27.0,2.0,14.0
+321,36009,1992-06-25,2012-08-06,2017-05-08,Second runners up,English - Creative writing,Male,0,71.97,205.43,Not a smoker,7.954,84.25,84.65,60.12,83.74,In state,Off Campus,Bike,12.0,5.0,14.0
+322,38020,1992-05-29,2012-08-06,2018-05-14,Second runners up,creative writing,Female,0,62.43,171.13,Smoker,7.17,86.2,79.24,59.85,75.76,unknown,Off Campus,Walk,15.0,3.0,11.0
+323,39181,1992-05-17,2012-08-06,2017-05-08,Second runners up,unknown,Male,0,68.03176470588237,216.33,Unknown,8.892,88.44,72.81,62.49,79.9,In state,Off Campus,Walk,18.0,2.0,6.0
+324,40229,1992-05-04,2012-08-06,2017-05-08,Second runners up,Liberal Studies,Male,0,73.37,180.81,Not a smoker,7.383,84.12,86.28,67.47,78.8,In state,Off Campus,Car,31.0,6.0,8.0
+325,41425,1992-04-17,2012-08-06,2017-05-08,Second runners up,unknown,Female,0,62.27,150.22,Smoker,6.581933155080214,79.44,91.34,68.44,80.72,Out of state,Off Campus,Car,31.0,3.0,7.0
+326,44698,1992-03-08,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,65.85,137.81,Not a smoker,7.135,83.97,80.5,69.57,84.09,In state,Off Campus,Car,32.0,2.0,4.0
+327,45041,1992-03-04,2012-08-06,2017-05-08,Second runners up,unknown,Female,0,65.91,160.53,Not a smoker,6.581933155080214,81.02,88.09,68.74,83.97,In state,Off Campus,Car,27.0,6.0,10.0
+328,45095,1992-03-03,2012-08-06,2017-05-08,Second runners up,fine arts,Female,1,69.57,153.19,Not a smoker,5.153,84.5,76.92,68.0,92.34,Out of state,Off Campus,Car,32.0,6.0,9.0
+329,45788,1992-02-24,2012-08-06,2018-05-14,Second runners up,Public Relations,Female,1,68.03176470588237,165.64,Not a smoker,5.772,83.46,87.08,64.73,85.32,In state,Off Campus,Car,25.0,6.0,5.0
+330,46912,1992-02-13,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,62.1,130.69,Unknown,7.973,82.78755501222494,81.27,65.46800947867298,76.42,In state,Off Campus,Car,32.0,7.0,5.0
+331,47122,1992-02-07,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,62.01,177.3,Not a smoker,7.186,77.71,99.35,85.57,87.08,In state,Off Campus,Car,29.0,9.0,6.0
+332,47676,1992-02-03,2012-08-06,2017-05-08,Second runners up,early childhood education,Male,0,68.03176470588237,181.18,Smoker,7.109,88.45,88.33,71.93,78.05,In state,Off Campus,Car,32.0,5.461538461538462,18.0
+333,48702,1992-01-22,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,62.46,155.3,Unknown,7.853,84.65,68.73,55.84,73.04,Out of state,Off Campus,Car,32.0,7.0,4.0
+334,48976,1992-01-19,2012-08-06,2018-05-14,Second runners up,unknown,Male,1,73.51,174.89,Unknown,5.845,85.37,71.2,58.1,77.72,In state,Off Campus,Car,20.0,4.0,8.0
+335,49137,1992-01-17,2012-08-06,2018-05-14,Second runners up,Philosophey,Male,1,65.37,142.54,Unknown,5.941,79.81,66.57,60.05,77.09,In state,Off Campus,Walk,16.0,7.0,9.0
+336,49165,1992-01-16,2012-08-06,2018-05-14,Second runners up,unknown,Neutral,1,66.32,185.9,Unknown,5.846,90.18,91.35,61.72,75.24,In state,Off Campus,Car,26.0,4.0,9.0
+337,49931,1992-01-08,2012-08-06,2018-05-14,Second runners up,unknown,Male,1,67.55,158.7,Not a smoker,5.14,84.34,82.0708,63.7,75.77,In state,Off Campus,Public Transit,62.0,5.0,10.0
+338,23871,1991-11-20,2012-08-06,2018-05-14,Second runners up,military history,Male,0,68.03176470588237,297.21,Not a smoker,6.992,100.78,73.73,60.88,83.99,In state,Off Campus,Car,22.0,4.0,6.0
+339,26771,1991-10-15,2012-08-06,2018-05-14,Second runners up,Special Education,Female,1,68.09,124.09,Smoker,6.641,92.2,83.69,69.35,91.78,In state,Off Campus,Car,24.0,4.0,7.208651399491094
+340,30329,1991-09-02,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,67.99,215.85,Unknown,6.082,82.28,81.52,65.08,77.4,In state,Off Campus,Car,20.0,5.0,14.0
+341,31549,1991-08-18,2012-08-06,2017-05-08,Second runners up,sports medicine,Male,0,71.31,244.67,Not a smoker,7.452,76.51,80.59,71.18,84.17,Out of state,Off Campus,Bike,10.0,5.0,7.208651399491094
+342,35681,1991-06-28,2012-08-06,2018-05-14,Second runners up,Arcitecture,Female,0,60.84,106.97,Not a smoker,7.374,85.45,82.44,46.14,76.75,In state,Off Campus,Car,29.0,9.0,12.0
+343,36100,1991-06-23,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,65.51,214.6,Not a smoker,6.798,95.86,81.47,65.64,87.96,In state,Off Campus,Car,24.0,4.0,16.0
+344,36863,1991-06-13,2012-08-06,2017-05-08,Second runners up,unknown,Female,1,65.86,154.31,Not a smoker,5.079,89.37,82.52,60.47,79.52168316831683,In state,Off Campus,Car,35.0,5.0,9.0
+345,49821,1991-05-24,2012-08-06,2017-05-08,Second runners up,Biology (Pre-med),Female,1,68.23,164.31,Smoker,5.637,71.93,67.04,62.64,79.52168316831683,Out of state,Off Campus,Car,32.0,4.0,7.208651399491094
+346,41406,1991-04-19,2012-08-06,2018-05-14,Second runners up,spanish and french,Female,0,59.68,181.03156914893617,Not a smoker,7.136,83.86,74.11,61.29,82.26,In state,Off Campus,Bike,8.0,6.0,9.0
+347,46722,1991-02-13,2012-08-06,2018-05-14,Second runners up,physik,Female,1,71.8,152.03,Smoker,6.481,97.49,78.84,64.89,88.09,unknown,Off Campus,Car,21.0,5.461538461538462,10.0
+348,48295,1991-01-25,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,64.87,203.55,Not a smoker,6.895,84.41,84.5,72.06,91.38,In state,Off Campus,Car,24.0,3.0,19.0
+349,21256,1990-12-21,2012-08-06,2018-05-14,Second runners up,Pre-law,Female,0,63.02,201.87,Not a smoker,8.232,77.96,80.23,56.93,77.73,In state,Off Campus,Car,22.0,5.461538461538462,6.0
+350,24904,1990-11-06,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,58.69,135.69,Not a smoker,7.024,86.8,83.24,64.88,86.69,In state,Off Campus,Car,38.0,6.0,8.0
+351,25251,1990-11-03,2012-08-06,2018-05-14,Second runners up,management,Male,1,74.23,181.03156914893617,Not a smoker,4.631,93.63,98.19,79.65,73.97,In state,On Campus,Public Transit,27.0,4.0,4.0
+352,26034,1990-10-24,2012-08-06,2017-05-08,Second runners up,aaaaaaaaaaaaaa,Female,1,66.63,153.12,Not a smoker,6.581933155080214,89.29,96.8,93.78,88.77,Out of state,Off Campus,Car,22.0,7.0,10.0
+353,30424,1990-09-01,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,74.45,190.46,Not a smoker,8.047,79.59,83.55,67.99,73.9,Out of state,Off Campus,Car,27.0,1.0,11.0
+354,30968,1990-08-24,2012-08-06,2017-05-08,Second runners up,Geology,Female,0,71.62,181.03156914893617,Not a smoker,6.989,78.0,81.51,62.14,74.13,In state,Off Campus,Car,36.0,3.0,7.208651399491094
+355,31419,1990-08-20,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,61.1,166.91,Not a smoker,6.614,95.81,95.42,74.81,72.48,In state,Off Campus,Car,33.0,1.0,3.0
+356,35048,1990-07-05,2012-08-06,2017-05-08,Second runners up,Performing arts,Female,0,72.68,270.29,Smoker,6.581933155080214,91.35,86.26,58.31,77.66,In state,Off Campus,Car,36.0,3.0,11.0
+357,36681,1990-06-18,2012-08-06,2017-05-08,Second runners up,Geography,Male,0,61.51,153.93,Unknown,6.769,87.6,85.4,60.27,73.29,In state,Off Campus,Walk,9.0,5.0,9.0
+358,38928,1990-05-19,2012-08-06,2017-05-08,Second runners up,Architecture,Female,0,65.76,190.53,Smoker,7.285,79.14,69.98,50.42,79.52168316831683,In state,Off Campus,Car,34.0,9.0,10.0
+359,42520,1990-04-06,2012-08-06,2017-05-08,Second runners up,athletic training,Male,0,70.79,196.86,Not a smoker,7.068,85.68,77.2,70.87,69.61,In state,Off Campus,Car,33.0,3.0,8.0
+360,46857,1990-02-13,2012-08-06,2018-05-14,Second runners up,unknown,Male,0,74.34,300.24,Not a smoker,6.284,93.34,92.08,71.69,79.27,In state,Off Campus,Public Transit,53.0,4.0,11.0
+361,22652,1989-12-04,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,68.03176470588237,127.17,Not a smoker,7.226,76.69,70.11,53.54,78.82,In state,Off Campus,Walk,13.0,3.0,4.0
+362,30070,1989-09-05,2012-08-06,2018-05-14,Second runners up,Education - Pre-K,Male,1,74.33,181.03156914893617,3.0,5.772,76.55,81.33,61.31,79.3,In state,Off Campus,Bike,9.0,9.0,9.0
+363,37310,1989-06-08,2012-08-06,2017-05-08,Second runners up,school psych,Female,1,65.75,169.13,Smoker,4.889,90.76,93.96,69.55,82.52,In state,On Campus,Public Transit,27.0,5.461538461538462,12.0
+364,49854,1989-02-24,2012-08-06,2017-05-08,Second runners up,unknown,Male,0,62.8,256.03,3.0,6.283,81.22,86.67,66.44,78.63,In state,Off Campus,Car,24.0,7.0,11.0
+365,32786,1988-08-02,2012-08-06,2018-05-14,Second runners up,unknown,Female,0,66.03,211.24,Not a smoker,6.787,82.95,83.26,68.23,82.78,In state,Off Campus,Car,28.0,4.0,11.0
+366,33358,1988-07-26,2012-08-06,2018-05-14,Second runners up,History,Female,0,68.03176470588237,155.65,Not a smoker,6.581933155080214,85.83,97.22,77.92,73.17,In state,Off Campus,Car,27.0,3.0,8.0
+367,36691,1988-06-17,2012-08-06,2017-05-08,Second runners up,German,Male,0,68.03176470588237,181.03156914893617,Not a smoker,6.924,70.35,75.49,59.63,75.31,In state,On Campus,Public Transit,27.0,8.0,8.0
+368,30268,1985-09-03,2012-08-06,2017-05-08,Second runners up,unknown,Male,0,73.58,319.65,Smoker,6.535,81.1,87.48,71.3,72.35,In state,Off Campus,Car,22.0,4.0,11.0
+369,33692,2000-01-01,2012-08-06,2017-05-08,Second runners up,communications,Male,1,68.03176470588237,187.8,Not a smoker,5.357,72.0,80.06,70.34,74.8,Out of state,Off Campus,Car,22.0,6.0,16.0
+370,31434,1992-08-19,2011-08-01,2017-05-08,Fourth position,thaeter,Male,0,61.75,182.23,Unknown,6.801,92.32,91.04,73.11,73.45,In state,Off Campus,Car,27.0,3.0,6.0
+371,45762,1992-02-24,2011-08-01,2016-05-09,Fourth position,Computer Science,Female,0,66.04,181.03156914893617,Unknown,8.62,78.33,85.84,62.68,81.88,In state,Off Campus,Car,25.0,4.0,13.0
+372,21421,1991-12-19,2011-08-01,2016-05-09,Fourth position,Environmental science,Female,1,63.38,181.03156914893617,Not a smoker,5.08,85.87,95.07,72.42,84.3,In state,Off Campus,Bike,10.0,4.0,8.0
+373,21610,1991-12-17,2011-08-01,2017-05-08,Fourth position,Paleontology,Male,1,72.05,177.0,Not a smoker,5.124,94.38,89.54,82.12,82.54,In state,Off Campus,Car,28.0,3.0,12.0
+374,22240,1991-12-09,2011-08-01,2017-05-08,Fourth position,biomed engineering,Female,1,66.35,138.24,Not a smoker,6.581933155080214,86.28,88.13,62.92,90.27,Out of state,Off Campus,Car,25.0,4.0,13.0
+375,23659,1991-11-22,2011-08-01,2017-05-08,Fourth position,Math,Male,0,69.82,274.67,Not a smoker,6.581933155080214,83.23,84.39,59.27,75.95,Out of state,Off Campus,Car,28.0,3.0,6.0
+376,29470,1991-09-12,2011-08-01,2016-05-09,Fourth position,unknown,Female,1,68.53,143.69,Not a smoker,4.77,75.43,79.27,66.95,76.09,Out of state,Off Campus,Car,32.0,10.0,9.0
+377,31575,1991-08-18,2011-08-01,2017-05-08,Fourth position,Latin,Male,1,65.77,167.12,Not a smoker,4.974,76.02,71.41,72.19,72.54,In state,Off Campus,Car,33.0,5.0,9.0
+378,32404,1991-08-08,2011-08-01,2017-05-08,Fourth position,Hahahaha,Male,0,66.09,145.31,Not a smoker,8.997,84.45,89.39,75.19,79.52168316831683,In state,Off Campus,Walk,21.0,7.0,7.208651399491094
+379,32929,1991-08-01,2011-08-01,2016-05-09,Fourth position,humanities,Male,1,66.63,169.6,Not a smoker,6.581933155080214,82.78755501222494,78.35,55.21,70.56,Out of state,Off Campus,Car,30.0,2.0,7.208651399491094
+380,33022,1991-08-01,2011-08-01,2016-05-09,Fourth position,unknown,Male,1,70.95,157.37,Not a smoker,5.771,87.37,84.39,70.13,75.07,In state,Off Campus,Walk,9.0,5.0,12.0
+381,33348,1991-07-26,2011-08-01,2017-05-08,Fourth position,unknown,Female,1,66.68,144.26,Not a smoker,6.16,82.61,76.39,53.91,85.18,Out of state,On Campus,Public Transit,27.0,3.0,14.0
+382,34469,1991-07-14,2011-08-01,2017-05-08,Fourth position,Spanish,Male,1,73.28,186.9,3.0,5.341,87.01,83.46,61.09,79.6,Out of state,Off Campus,Car,32.0,5.0,14.0
+383,35684,1991-06-29,2011-08-01,2017-05-08,Fourth position,unknown,Male,0,68.03176470588237,167.26,Not a smoker,5.595,82.78755501222494,86.65,63.07,71.33,In state,Off Campus,Walk,10.0,2.0,7.0
+384,36404,1991-06-21,2011-08-01,2017-05-08,Fourth position,Gender Studies,Male,0,66.72,190.07,Not a smoker,8.112,82.78755501222494,63.48,63.19,80.27,In state,Off Campus,Public Transit,27.0,4.0,7.208651399491094
+385,38644,1991-05-25,2011-08-01,2017-05-08,Fourth position,Computer Programming,Male,0,74.8,197.22,Unknown,8.177,79.38,82.64,66.51,79.52168316831683,Out of state,Off Campus,Walk,15.0,4.0,14.0
+386,40900,1991-04-27,2011-08-01,2017-05-08,Fourth position,don't know yet,Male,1,71.71,200.31,Not a smoker,6.581933155080214,92.22,88.87,63.82,88.8,In state,Off Campus,Car,32.0,5.0,11.0
+387,41762,1991-04-17,2011-08-01,2017-05-08,Fourth position,Forensic  science,Male,1,65.45,176.93,Not a smoker,5.234,79.18,86.06,63.77,70.28,Out of state,Off Campus,Car,28.0,4.0,13.0
+388,43596,1991-03-24,2011-08-01,2016-05-09,Fourth position,Art History,Male,1,69.57,182.52,Not a smoker,4.748,70.73,84.95,75.84,76.98,In state,Off Campus,Bike,7.0,7.0,11.0
+389,44640,1991-03-10,2011-08-01,2017-05-08,Fourth position,unknown,Female,1,66.89,127.14,Not a smoker,4.81,83.17,95.24,69.33,78.4,In state,Off Campus,Car,21.0,4.0,7.0
+390,47709,1991-02-03,2011-08-01,2016-05-09,Fourth position,nutrition,Male,0,84.16,208.06,Smoker,8.034,89.25,87.09,66.9,80.91,In state,Off Campus,Walk,14.0,10.0,6.0
+391,48238,1991-01-28,2011-08-01,2017-05-08,Fourth position,unknown,Male,0,67.24,272.58,Unknown,5.295,78.9,68.82,62.43,75.59,In state,Off Campus,Walk,20.0,5.461538461538462,12.0
+392,48112,1991-01-27,2011-08-01,2016-05-09,Fourth position,History,Female,1,66.52,166.58,Not a smoker,6.364,77.66,87.67,75.85,79.52168316831683,In state,Off Campus,Car,32.0,4.0,10.0
+393,22167,1990-12-10,2011-08-01,2016-05-09,Fourth position,stage management,Male,0,67.02,214.95,Not a smoker,7.61,80.08,75.46,71.2,74.78,In state,Off Campus,Car,37.0,4.0,16.0
+394,23717,1990-11-21,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,59.25,110.62,Not a smoker,7.419,85.03,81.98,72.9,85.7,Out of state,Off Campus,Car,33.0,5.0,23.0
+395,25875,1990-10-26,2011-08-01,2017-05-08,Fourth position,unknown,Female,0,72.41,181.03156914893617,Not a smoker,7.571,78.41,88.07,66.28,82.75,unknown,unknown,Car,26.0,8.0,4.0
+396,26367,1990-10-19,2011-08-01,2016-05-09,Fourth position,Ethnomusicology,Female,0,69.84,174.28,Not a smoker,6.969,77.24,72.75,63.06,84.48,In state,Off Campus,Public Transit,59.0,4.0,7.208651399491094
+397,26510,1990-10-18,2011-08-01,2016-05-09,Fourth position,unknown,Male,1,66.56,196.32,Not a smoker,5.002,99.56,85.94,80.59,79.12,In state,Off Campus,Car,26.0,4.0,11.0
+398,27209,1990-10-09,2011-08-01,2017-05-08,Fourth position,unknown,Female,1,66.28,163.19,Not a smoker,6.167,81.37,72.15,58.36,87.49,In state,Off Campus,Car,29.0,3.0,12.0
+399,29115,1990-09-17,2011-08-01,2017-05-08,Fourth position,athletic trainer,Male,1,72.49,217.29,Not a smoker,5.55,86.3,92.01,65.03,76.4,In state,Off Campus,Bike,9.0,5.0,7.208651399491094
+400,31078,1990-08-23,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,70.85,151.98,Not a smoker,6.581933155080214,82.12,69.32,58.7,84.21,In state,Off Campus,Car,28.0,5.0,7.208651399491094
+401,34362,1990-07-13,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,62.79,154.95,Smoker,7.268,78.07,75.3,60.59,80.5,In state,Off Campus,Car,35.0,7.0,15.0
+402,34581,1990-07-12,2011-08-01,2017-05-08,Fourth position,nutrition,Male,0,61.53,181.03156914893617,Not a smoker,6.685,89.06,82.0708,64.93,69.07,Out of state,Off Campus,Car,30.0,0.0,6.0
+403,34591,1990-07-11,2011-08-01,2016-05-09,Fourth position,Comp Sci,Female,0,67.68,155.29,3.0,8.408,79.43,75.91,59.55,78.19,Out of state,Off Campus,Walk,11.0,7.0,18.0
+404,35886,1990-06-27,2011-08-01,2016-05-09,Fourth position,Chemical Engineering,Male,1,74.49,214.03,Not a smoker,4.984,80.02,84.81,64.96,67.97,In state,Off Campus,Car,20.0,6.0,10.0
+405,37713,1990-06-04,2011-08-01,2016-05-09,Fourth position,fnrech,Male,1,73.55,181.47,Not a smoker,6.581933155080214,70.76,80.71,69.43,74.74,In state,Off Campus,Walk,23.0,3.0,7.208651399491094
+406,39415,1990-05-13,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,63.11,181.03156914893617,Not a smoker,6.96,83.7,82.0,56.14,84.95,Out of state,Off Campus,Walk,20.0,5.0,9.0
+407,40313,1990-05-03,2011-08-01,2016-05-09,Fourth position,unknown,Female,1,64.78,168.88,Not a smoker,5.584,81.33,77.14,52.83,81.41,In state,Off Campus,Car,29.0,3.0,12.0
+408,41168,1990-04-23,2011-08-01,2017-05-08,Fourth position,HDFS,Male,1,80.86,226.48,Not a smoker,5.998,73.63,79.24,71.05,78.69,In state,Off Campus,Car,24.0,4.0,10.0
+409,41165,1990-04-21,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,73.21,161.72,Not a smoker,8.783,80.14,86.07,74.68,88.19,Out of state,Off Campus,Car,23.0,8.0,6.0
+410,42826,1990-04-03,2011-08-01,2016-05-09,Fourth position,Political Science,Male,1,66.91,156.65,Smoker,5.648,83.41,86.06,77.26,79.55,In state,Off Campus,Public Transit,53.0,5.0,5.0
+411,43676,1990-03-21,2011-08-01,2017-05-08,Fourth position,unknown,Female,0,68.86,133.01,Not a smoker,7.62,87.0,81.94,47.07,78.77,Out of state,Off Campus,Car,37.0,3.0,7.208651399491094
+412,44968,1990-03-09,2011-08-01,2017-05-08,Fourth position,psychology,Male,0,80.73,225.58,Not a smoker,7.079,88.62,78.27,68.66,77.58,In state,Off Campus,Car,28.0,3.0,10.0
+413,45928,1990-02-22,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,68.91,144.17,Unknown,9.159,81.07,85.37,65.46800947867298,78.32,In state,Off Campus,Car,38.0,5.0,10.0
+414,46439,1990-02-16,2011-08-01,2016-05-09,Fourth position,bachelor of fine arts in theater,Female,0,63.25,191.19,Not a smoker,6.9,84.35,74.53,55.72,86.93,In state,Off Campus,Walk,9.0,6.0,13.0
+415,48958,1990-01-17,2011-08-01,2016-05-09,Fourth position,Fein Arts,Female,1,66.14,158.98,Unknown,7.079,85.75,77.39,44.7,80.65,In state,Off Campus,Car,31.0,8.0,7.0
+416,49572,1990-01-09,2011-08-01,2016-05-09,Fourth position,Sport Medicine,Female,0,60.68,122.24,Unknown,7.747,75.69,78.1,47.1,79.72,In state,Off Campus,Car,31.0,7.0,7.0
+417,21254,1989-12-21,2011-08-01,2016-05-09,Fourth position,unknown,Male,1,72.15,181.03156914893617,Not a smoker,5.203,71.87,93.95,65.46800947867298,75.98,In state,Off Campus,Car,31.0,8.0,9.0
+418,23037,1989-11-29,2011-08-01,2017-05-08,Fourth position,Speech Pathology and Audiology,Female,0,63.61,191.16,Unknown,6.587,82.78755501222494,64.68,64.67,84.71,Out of state,Off Campus,Car,32.0,4.0,4.0
+419,23340,1989-11-26,2011-08-01,2017-05-08,Fourth position,AstronomyÂ ,Female,1,64.46,134.77,Not a smoker,6.177,75.05,88.79,85.69,83.22,unknown,Off Campus,Car,19.0,4.0,8.0
+420,24362,1989-11-13,2011-08-01,2016-05-09,Fourth position,unknown,Female,0,71.35,212.08,Not a smoker,7.559,79.1,88.78,62.85,76.6,In state,Off Campus,Car,22.0,6.0,8.0
+421,28328,1989-09-26,2011-08-01,2017-05-08,Fourth position,Elementary ed,Male,0,63.07,191.58,Not a smoker,7.095,82.78755501222494,89.0,72.63,77.47,In state,Off Campus,Car,15.0,2.0,3.0
+422,30139,1989-09-04,2011-08-01,2017-05-08,Fourth position,Accounting,Male,1,76.18,208.45,Not a smoker,5.115,86.22,79.21,68.17,72.81,In state,Off Campus,Bike,13.0,3.0,14.0
+423,32380,1989-08-08,2011-08-01,2017-05-08,Fourth position,I haven't picked one yet,Male,0,69.67,189.78,Unknown,8.527,82.78755501222494,73.03,65.42,86.18,In state,Off Campus,Car,27.0,5.461538461538462,16.0
+424,35269,1989-07-04,2011-08-01,2016-05-09,Fourth position,unknown,Male,1,71.45,144.14,Not a smoker,6.581933155080214,87.17,82.29,67.32,84.23,In state,Off Campus,Car,24.0,4.0,11.0
+425,38872,1989-05-19,2011-08-01,2017-05-08,Fourth position,commm studies,Female,0,60.2,183.13,Unknown,6.111,83.49,84.04,76.01,87.54,In state,Off Campus,Car,32.0,4.0,23.0
+426,39413,1989-05-12,2011-08-01,2017-05-08,Fourth position,unknown,Female,1,67.42,181.03156914893617,Not a smoker,4.927,89.35,71.08,59.71,77.94,In state,Off Campus,Car,32.0,5.461538461538462,7.208651399491094
+427,45256,1989-03-03,2011-08-01,2016-05-09,Fourth position,Interior design,Female,1,68.03176470588237,174.82,Unknown,6.486,84.96,90.88,59.03,79.53,In state,unknown,Car,31.0,7.0,7.208651399491094
+428,48529,1989-01-21,2011-08-01,2017-05-08,Fourth position,Science,Female,0,67.31,154.31,Not a smoker,7.819,84.16,80.63,64.3,83.45,Out of state,Off Campus,Car,27.0,0.0,7.208651399491094
+429,36563,1988-06-17,2011-08-01,2016-05-09,Fourth position,Marketing,Female,0,66.26,151.68,Not a smoker,7.036,83.53,80.02,66.33,84.21,In state,Off Campus,Car,27.0,5.0,12.0
+430,34021,1987-07-18,2011-08-01,2017-05-08,Fourth position,accounting,Female,0,68.03176470588237,181.03156914893617,Not a smoker,6.581933155080214,87.72,84.99,65.31,79.52168316831683,In state,Off Campus,Walk,18.0,1.0,10.0
+431,40697,1987-04-29,2011-08-01,2016-05-09,Fourth position,unknown,Male,0,68.5,131.92,Not a smoker,9.125,91.01,86.87,70.25,82.67,In state,Off Campus,Car,26.0,6.0,15.0
+432,34272,2000-01-01,2011-08-01,2016-05-09,Fourth position,nursing,Male,1,68.1,130.07,Not a smoker,6.581933155080214,81.05,85.76,58.16,81.87,unknown,Off Campus,Car,29.0,6.0,10.0
+433,33628,2000-01-01,2011-08-01,2017-05-08,Fourth position,Nursing,Female,1,69.27,157.26,Unknown,6.905,75.59,85.97,66.84,79.35,In state,Off Campus,Walk,14.0,4.0,10.0
+434,39298,2000-01-01,2011-08-01,2017-05-08,Fourth position,unknown,Female,1,66.68,152.33,Smoker,6.233,75.65,77.24,60.24,75.23,In state,Off Campus,Car,27.0,2.0,10.0
