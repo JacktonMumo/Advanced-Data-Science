@@ -26,3 +26,12 @@
 * By analyzing the rules, you can identify interesting relationships between items. We can look for rules with:
     1. High confidence
     2. lift greater than 3 (meaning the two items probably appaer more together)
+
+## Cohort Analysis
+* it focuses on understanding the behaviour of a user over time. It involves grouping users based on shared characterisics (eg sign up date) and also it will analyze their actions within the group. This helps to identify trends and patterns in user engagement, churn (user drop-off), purchase behaviour
+* in essence, cohort analysis helps to understand how a user interacts with ones products or services, while recommender systems leverage the understanding of users data to personalize user experience
+* it is an unsupervised ML, but can sometimes be combined with supervised ML
+* from cohort analysis we can answer questions like:
+    1. user behaviour(their retention rate, purchase frequency)
+    2. identifying churn points( are specific moments in a users lifecycle where they are at a heightened risk of cancelling subscriptions, stopping using a product, or otherwise disengaging from a service)
+    3. how can a company improve user engagement
